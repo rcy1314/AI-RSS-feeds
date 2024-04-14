@@ -1,0 +1,6 @@
+feedparser
+configparser
+openai
+jinja2
+beautifulsoup4
+httpx
