@@ -20094,3 +20094,12 @@ Existing_entries: 729
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-16 00:57:22.681781
+------------------------------------------------------
+Started: 2024-04-16 04:15:41.610641
+Existing_entries: 729
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)
+append_entries: 1
+Finish: 2024-04-16 04:15:42.245015
