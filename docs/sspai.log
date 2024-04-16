@@ -20103,3 +20103,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等](https://sspai.com/post/88102)
 append_entries: 1
 Finish: 2024-04-16 04:15:42.245015
+------------------------------------------------------
+Started: 2024-04-16 08:16:36.002757
+Existing_entries: 730
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ghidra 逆向工程实战：看看 macOS 恶意软件动了什么手脚](https://sspai.com/post/87870)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
+append_entries: 2
+Finish: 2024-04-16 08:16:36.969484

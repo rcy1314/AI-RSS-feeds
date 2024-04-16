@@ -43939,3 +43939,32 @@ Filter: [“音乐版Sora”服务器挤爆，功能比Suno丰富还能生成脱
 Filter: [剑指Sora，120秒超长AI视频模型免费开玩](https://www.36kr.com/p/2734135475480833)
 append_entries: 1
 Finish: 2024-04-16 04:15:52.970987
+------------------------------------------------------
+Started: 2024-04-16 08:16:58.146099
+Existing_entries: 651
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [全球疯抢AI人才，2023财年一分现金未发的英伟达如何拴住人心？](https://www.36kr.com/p/2735714449091076)
+Filter: [Sora 加入 Adobe 全家桶，一句话 P 视频，真成「美图秀秀」了](https://www.36kr.com/p/2735794932132358)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [阿尔特曼盯上财富500强，OpenAI与微软竞争升级，用新品和定制AI抢客](https://www.36kr.com/p/2735587845624449)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [福布斯发布AI 50强榜单：OpenAI、Anthropic霸榜，超三成融资由OpenAI获得](https://www.36kr.com/p/2735581254685312)
+Filter: [手机卖不动了，苹果靠AI续命](https://www.36kr.com/p/2735582836484611)
+Filter: [赶 AI 时髦的 SaaS 们，该考虑 ROI 了](https://www.36kr.com/p/2735504286116101)
+Filter: [Suno的冲击：AI音乐来了](https://www.36kr.com/p/2735452419664391)
+Filter: [15秒样板复刻原声，如何防范仿真诈骗？](https://www.36kr.com/p/2735426073864449)
+Filter: [“反英伟达联盟”背后，是AI的第三场战争](https://www.36kr.com/p/2735400728652033)
+Filter: [北大字节开辟图像生成新范式，超越Sora核心组件DiT，不再预测下一个token](https://www.36kr.com/p/2735345891224067)
+Filter: [刚刚，李飞飞团队发布《2024年人工智能指数报告》：10大趋势，揭示AI大模型的“喜”与“忧”](https://www.36kr.com/p/2734912248080899)
+Filter: [清华首款AI光芯片登上Science，全球首创架构迈向AGI](https://www.36kr.com/p/2734817022978306)
+Filter: [GPT-4整治学术不端，人大/浙大团队实测7000篇论文，撤稿预测与人类95%一致](https://www.36kr.com/p/2734816400566789)
+Filter: [利物浦都在用的AI教练，真能拯救国足吗？](https://www.36kr.com/p/2734812863932679)
+Filter: [生成式人工智能应用于教育，还要历经多少关卡？](https://www.36kr.com/p/2734824505813505)
+Filter: [当创新缺失，iPhone不再流行，苹果是否迷失在AI时代](https://www.36kr.com/p/2734573664225026)
+Filter: [加密+AI，究竟是一场交易幻景，真正的价值提升？](https://www.36kr.com/p/2734607034837250)
+Filter: [我用 AI 五分钟生成一个广告 ，却花了五个小时「去 AI 味」](https://www.36kr.com/p/2734552058063360)
+Filter: [AI“芯”突围：英特尔Gaudi 3硬刚英伟达抢市场，国产芯片细分赛道谋变](https://www.36kr.com/p/2734503691446793)
+append_entries: 2
+Finish: 2024-04-16 08:16:58.808738
