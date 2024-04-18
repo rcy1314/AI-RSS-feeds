@@ -20202,3 +20202,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [派早报：AMD 发布锐龙 PRO 系列处理器、Adobe Acrobat 上线 AI 助手等](https://sspai.com/post/88145)
 append_entries: 1
 Finish: 2024-04-18 04:15:30.949628
+------------------------------------------------------
+Started: 2024-04-18 08:17:18.752203
+Existing_entries: 739
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
+append_entries: 2
+Finish: 2024-04-18 08:17:19.340327

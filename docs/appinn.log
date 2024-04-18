@@ -22228,3 +22228,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-18 04:15:26.094912
+------------------------------------------------------
+Started: 2024-04-18 08:17:10.153011
+Existing_entries: 357
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [求对离线网页进行标注并能保存标注的工具](https://meta.appinn.net/t/topic/44555)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【自荐】创业零基础自己记账报税软件，自记账app（付费但很实用）](https://meta.appinn.net/t/topic/55356)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-04-18 08:17:14.298536
