@@ -20214,3 +20214,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
 append_entries: 2
 Finish: 2024-04-18 08:17:19.340327
+------------------------------------------------------
+Started: 2024-04-18 12:23:45.728277
+Existing_entries: 741
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [解锁你的「三倍生产力」，几硕 FlipGo 效率双屏](https://sspai.com/post/88154)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
+append_entries: 2
+Finish: 2024-04-18 12:23:46.464123
