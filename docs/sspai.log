@@ -20244,3 +20244,15 @@ Existing_entries: 743
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-19 00:57:52.352828
+------------------------------------------------------
+Started: 2024-04-19 04:15:21.823509
+Existing_entries: 743
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：首个第三方应用程序商店 AltStore PAL 上线等](https://sspai.com/post/88182)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [商店表达：探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
+append_entries: 2
+Finish: 2024-04-19 04:15:22.418601
