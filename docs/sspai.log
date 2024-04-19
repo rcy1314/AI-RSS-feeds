@@ -20262,3 +20262,16 @@ Existing_entries: 745
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-19 08:16:49.188040
+------------------------------------------------------
+Started: 2024-04-19 12:23:43.603547
+Existing_entries: 745
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
+Append: [做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
+append_entries: 3
+Finish: 2024-04-19 12:23:44.242605
