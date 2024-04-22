@@ -20365,3 +20365,12 @@ Existing_entries: 748
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-22 01:00:03.592749
+------------------------------------------------------
+Started: 2024-04-22 04:16:00.200711
+Existing_entries: 748
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
+append_entries: 1
+Finish: 2024-04-22 04:16:00.716415
