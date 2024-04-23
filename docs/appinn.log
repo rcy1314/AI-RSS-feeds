@@ -22473,3 +22473,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-23 04:16:06.700046
+------------------------------------------------------
+Started: 2024-04-23 08:16:32.737369
+Existing_entries: 362
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [推荐 Chrome 系浏览器设置流畅浮动滚动条](https://meta.appinn.net/t/topic/55561)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-23 08:16:36.067744

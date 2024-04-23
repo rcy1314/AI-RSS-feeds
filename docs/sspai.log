@@ -20425,3 +20425,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等](https://sspai.com/post/88272)
 append_entries: 1
 Finish: 2024-04-23 04:16:11.619683
+------------------------------------------------------
+Started: 2024-04-23 08:16:40.576617
+Existing_entries: 754
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [我的购房指北：买房之前可以关注什么？](https://sspai.com/post/88238)
+append_entries: 1
+Finish: 2024-04-23 08:16:41.036091
