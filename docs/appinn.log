@@ -22490,3 +22490,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-23 12:25:10.931177
+------------------------------------------------------
+Started: 2024-04-23 16:16:18.374864
+Existing_entries: 363
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [如何通过快捷键用不同的软件打开某一个文件](https://meta.appinn.net/t/topic/55583)
+append_entries: 1
+Finish: 2024-04-23 16:16:21.969094
