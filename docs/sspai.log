@@ -20473,3 +20473,12 @@ Existing_entries: 758
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-24 04:15:35.440070
+------------------------------------------------------
+Started: 2024-04-24 08:17:41.089840
+Existing_entries: 758
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
+append_entries: 1
+Finish: 2024-04-24 08:17:41.756921
