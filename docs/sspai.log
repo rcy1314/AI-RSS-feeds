@@ -20458,3 +20458,12 @@ Existing_entries: 757
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-23 20:13:28.992660
+------------------------------------------------------
+Started: 2024-04-24 00:59:15.105944
+Existing_entries: 757
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：雷蛇毒蝰 V3 专业版发布等](https://sspai.com/post/88303)
+append_entries: 1
+Finish: 2024-04-24 00:59:15.551937
