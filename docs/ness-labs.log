@@ -2403,3 +2403,15 @@ Existing_entries: 19
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-04-25 12:20:49.422942
+------------------------------------------------------
+Started: 2024-04-25 16:16:41.876140
+Existing_entries: 19
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Unlock Infinite Spatial Thinking with Cansu Tastan, Co-Creator of Defter Notes](https://nesslabs.com/defter-notes-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=defter-notes-featured-tool)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Tyranny of Job Titles: From Vanity Growth to Personal Growth](https://nesslabs.com/job-titles?utm_source=rss&utm_medium=rss&utm_campaign=job-titles)
+append_entries: 2
+Finish: 2024-04-25 16:16:42.754547
