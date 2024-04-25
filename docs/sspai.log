@@ -20521,3 +20521,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [派早报：OPPO 发布 K12、vivo 推出 Z9 系列手机等](https://sspai.com/post/88335)
 append_entries: 1
 Finish: 2024-04-25 04:15:58.764747
+------------------------------------------------------
+Started: 2024-04-25 08:18:24.584722
+Existing_entries: 762
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [「助你苹安」iPhone 一键遥控 Android 热点，简单设置强化双持体验](https://sspai.com/post/88334)
+append_entries: 1
+Finish: 2024-04-25 08:18:25.015549
