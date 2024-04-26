@@ -20591,3 +20591,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
 append_entries: 1
 Finish: 2024-04-26 12:24:13.023173
+------------------------------------------------------
+Started: 2024-04-26 16:17:14.471091
+Existing_entries: 770
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [19 种做法，解锁笋的节节美味](https://sspai.com/post/88115)
+append_entries: 1
+Finish: 2024-04-26 16:17:14.978052

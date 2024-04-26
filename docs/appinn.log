@@ -22642,3 +22642,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [发现了DwarFS的一个彩蛋功能](https://meta.appinn.net/t/topic/55703)
 append_entries: 1
 Finish: 2024-04-26 12:24:08.002127
+------------------------------------------------------
+Started: 2024-04-26 16:17:06.587930
+Existing_entries: 371
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-26 16:17:09.895399
