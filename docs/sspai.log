@@ -20582,3 +20582,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
 append_entries: 2
 Finish: 2024-04-26 08:16:44.268927
+------------------------------------------------------
+Started: 2024-04-26 12:24:12.534564
+Existing_entries: 769
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
+append_entries: 1
+Finish: 2024-04-26 12:24:13.023173
