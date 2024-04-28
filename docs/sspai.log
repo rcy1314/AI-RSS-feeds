@@ -20654,3 +20654,12 @@ Existing_entries: 771
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-28 04:14:55.938796
+------------------------------------------------------
+Started: 2024-04-28 08:17:34.948003
+Existing_entries: 771
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始](https://sspai.com/post/88325)
+append_entries: 1
+Finish: 2024-04-28 08:17:35.389744
