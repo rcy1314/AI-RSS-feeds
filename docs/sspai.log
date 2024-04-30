@@ -20732,3 +20732,15 @@ Existing_entries: 775
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-30 00:58:29.086221
+------------------------------------------------------
+Started: 2024-04-30 04:16:39.698717
+Existing_entries: 775
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
+append_entries: 2
+Finish: 2024-04-30 04:16:40.577776
