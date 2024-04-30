@@ -20763,3 +20763,12 @@ Append: [社区速递 042 | RIME 多端同步、无线充电争议以及派友�
 Append: [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 append_entries: 3
 Finish: 2024-04-30 12:24:12.483063
+------------------------------------------------------
+Started: 2024-04-30 16:17:05.817352
+Existing_entries: 780
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴](https://sspai.com/post/88489)
+append_entries: 1
+Finish: 2024-04-30 16:17:06.349379
