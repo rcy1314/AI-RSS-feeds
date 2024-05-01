@@ -20790,3 +20790,15 @@ Existing_entries: 781
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-01 04:15:49.518563
+------------------------------------------------------
+Started: 2024-05-01 08:19:50.978876
+Existing_entries: 781
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
+append_entries: 2
+Finish: 2024-05-01 08:19:51.691821
