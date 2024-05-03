@@ -20880,3 +20880,15 @@ Existing_entries: 787
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-03 04:17:12.394549
+------------------------------------------------------
+Started: 2024-05-03 08:16:29.221245
+Existing_entries: 787
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/88518)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [12.5 GPT 与进阶技巧：AI 内容检测](https://sspai.com/post/85766)
+append_entries: 2
+Finish: 2024-05-03 08:16:30.003916
