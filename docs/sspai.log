@@ -20935,3 +20935,12 @@ Append: [又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得�
 Append: [8. 处理图像实例：批量清理截图状态栏](https://sspai.com/post/79283)
 append_entries: 3
 Finish: 2024-05-04 08:15:29.825639
+------------------------------------------------------
+Started: 2024-05-04 12:22:12.260223
+Existing_entries: 792
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用 Proxmox 敲开家庭服务器的大门](https://sspai.com/post/88340)
+append_entries: 1
+Finish: 2024-05-04 12:22:12.811806
