@@ -20968,3 +20968,16 @@ Existing_entries: 793
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-05 04:16:57.442185
+------------------------------------------------------
+Started: 2024-05-05 08:15:46.293340
+Existing_entries: 793
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [掌握 Windows 终端命令的基本语法及风格](https://sspai.com/post/78248)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [旅行拍照虽然开心，但别忘了清洁相机](https://sspai.com/post/68863)
+Append: [抓住冬天的尾巴，去见江南的楼阁](https://sspai.com/post/86171)
+append_entries: 3
+Finish: 2024-05-05 08:15:47.012245
