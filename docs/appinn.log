@@ -23108,3 +23108,11 @@ Append: [求一个支持 GPT3.5 的翻译输入法](https://meta.appinn.net/t/to
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-05-06 01:00:18.855808
+------------------------------------------------------
+Started: 2024-05-06 04:16:34.844893
+Existing_entries: 381
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-05-06 04:16:38.435060
