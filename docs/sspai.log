@@ -21027,3 +21027,12 @@ Append: [理解 Keynote「神奇移动」效果的原理](https://sspai.com/post
 Append: [喀拉峻的瞬间](https://sspai.com/post/88505)
 append_entries: 3
 Finish: 2024-05-06 08:17:27.681466
+------------------------------------------------------
+Started: 2024-05-06 12:25:13.774169
+Existing_entries: 800
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派评 | 近期值得关注的 app](https://sspai.com/post/88579)
+append_entries: 1
+Finish: 2024-05-06 12:25:14.278772
