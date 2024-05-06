@@ -21014,3 +21014,16 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [派早报：首个完全使用 Sora 制作的 MV 发布](https://sspai.com/post/88562)
 append_entries: 1
 Finish: 2024-05-06 04:16:43.678566
+------------------------------------------------------
+Started: 2024-05-06 08:17:27.099511
+Existing_entries: 797
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [理解 Keynote「神奇移动」效果的原理](https://sspai.com/post/77495)
+Append: [喀拉峻的瞬间](https://sspai.com/post/88505)
+append_entries: 3
+Finish: 2024-05-06 08:17:27.681466
