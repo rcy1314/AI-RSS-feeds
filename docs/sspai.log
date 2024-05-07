@@ -21054,3 +21054,15 @@ Existing_entries: 801
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-07 00:59:24.162994
+------------------------------------------------------
+Started: 2024-05-07 04:16:58.837963
+Existing_entries: 801
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等](https://sspai.com/post/88593)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
+append_entries: 2
+Finish: 2024-05-07 04:16:59.595790
