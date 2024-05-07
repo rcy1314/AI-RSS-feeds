@@ -23167,3 +23167,11 @@ Append: [今天过生日， 33 了。没啥成就，有几个自己开发的 App
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-05-07 04:16:54.142827
+------------------------------------------------------
+Started: 2024-05-07 08:16:37.549548
+Existing_entries: 384
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-05-07 08:16:40.663139
