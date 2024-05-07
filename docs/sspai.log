@@ -21075,3 +21075,10 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 append_entries: 1
 Finish: 2024-05-07 08:16:46.127933
+------------------------------------------------------
+Started: 2024-05-07 12:24:33.941400
+Existing_entries: 804
+Fetching from https://rsshub.app/sspai/index
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/sspai

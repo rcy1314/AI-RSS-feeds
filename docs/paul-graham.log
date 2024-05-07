@@ -12323,3 +12323,10 @@ Existing_entries: 33
 Fetching from https://rsshub.app/paulgraham/articles
 append_entries: 0
 Finish: 2024-05-07 08:16:58.539416
+------------------------------------------------------
+Started: 2024-05-07 12:24:44.118677
+Existing_entries: 33
+Fetching from https://rsshub.app/paulgraham/articles
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/paul-graham
