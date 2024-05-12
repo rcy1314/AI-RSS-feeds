@@ -23426,3 +23426,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-12 12:24:54.192337
+------------------------------------------------------
+Started: 2024-05-12 16:15:53.959297
+Existing_entries: 387
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome 浏览器有没有能够用chrome sync保留数据的浏览时间统计插件？](https://meta.appinn.net/t/topic/56336)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-12 16:15:57.487158
