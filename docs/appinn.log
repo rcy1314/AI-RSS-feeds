@@ -23576,3 +23576,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【开发者自荐】Subtitle Renamer —— 支持简繁识别的多平台字幕重命名工具](https://meta.appinn.net/t/topic/56465)
 append_entries: 1
 Finish: 2024-05-15 12:27:26.182621
+------------------------------------------------------
+Started: 2024-05-15 16:16:51.530010
+Existing_entries: 393
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-05-15 16:16:54.906449
