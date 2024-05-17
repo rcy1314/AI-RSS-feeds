@@ -23650,3 +23650,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-17 01:00:45.693767
+------------------------------------------------------
+Started: 2024-05-17 04:16:26.409842
+Existing_entries: 395
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome 125.0.6422.61 改老UI](https://meta.appinn.net/t/topic/56528)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【限免】iOS软件《Authenticator-双重认证密码管理器》永久会员限免中！](https://meta.appinn.net/t/topic/56533)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-05-17 04:16:29.482792
