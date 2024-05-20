@@ -23817,3 +23817,11 @@ Append: [如果你听播客时需要看字幕，试试这个播客App（应该�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-05-20 08:17:53.269675
+------------------------------------------------------
+Started: 2024-05-20 12:27:56.571862
+Existing_entries: 402
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-05-20 12:27:59.894219
