@@ -5,11 +5,63 @@
 <link>https://brettterpstra.com/</link>
 
 <item>
+<title>Man, I should have started Conductor with filters</title>
+<link>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</link>
+<guid>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</guid>
+<content:encoded><![CDATA[
+
+<p>I added a few more (obvious) <a href="https://brettterpstra.com/2024/05/24/conductor-filters-simplify-basic-operations/">filters</a> to <a href="https://brettterpstra.com/projects/conductor">Conductor</a> this morning. I really should have started here, it makes configuration so convenient and alleviates the need for about 50% of what you would do with scripting. Now you can do it all from one YAML file.</p>
+
+<p>The new filters are:</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">insertTOC(max, after)</code></td>
+      <td>insert TOC (max=max levels, after=start, *h1, or h2)</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">prepend/appendFile(path)</code></td>
+      <td>insert a file as Markdown at beginning or end of content</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">prepend/appendRaw(path)</code></td>
+      <td>insert a file as raw HTML at beginning or end of content</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">prepend/appendCode(path)</code></td>
+      <td>insert a file as a code block at beginning or end of content</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>These allow you to insert a table of contents and append or prepend files, raw HTML, or code blocks.</p>
+
+<p>Inserted files can be absolute paths or you can store templates in <code class="language-plaintext highlighter-rouge">~/.config/conductor/files</code> and just reference them by filename. Perfect for adding things like bios and disclaimers to your documents before outputing them (as PDF, HTML, or even as a new Markdown document).</p>
+
+<p>The table of contents can be inserted at the top (&ldquo;start&rdquo; or &ldquo;top&rdquo;) or after the first h1 or h2 in the document.</p>
+
+<p>If you use <code class="language-plaintext highlighter-rouge">insertTOC(3, h1)</code> after an <code class="language-plaintext highlighter-rouge">insertTitle</code> in a <code class="language-plaintext highlighter-rouge">sequence</code>, you&rsquo;d get a title inserted from metadata first, then a TOC inserted after it. (Then use the new <code class="language-plaintext highlighter-rouge">insertScript()</code> filter to add Mermaid or a custom MathJax implementation. Sky&rsquo;s the limit, kind of.)</p>
+
+<p>These filters make some of the more basic tasks you&rsquo;d usually perform with a Custom Processor script as easy as one line in a config file.</p>
+
+<p>Full details on the <a href="https://brettterpstra.com/projects/conductor">project page</a>.</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112502759411642245" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F05%2F25%2Fman-i-should-have-started-conductor-with-filters%2F&amp;text=Man%2C+I+should+have+started+Conductor+with+filters&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F05%2F25%2Fman-i-should-have-started-conductor-with-filters%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16693490.gif" width="1" />
+]]></content:encoded>
+<pubDate>2024-05-25T11:42:00-05:00</pubDate>
+<pubDate>2024-05-25T11:42:00-05:00</pubDate>
+</item>
+
+<item>
 <title>I can't believe I forgot this Conductor filter</title>
 <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
 <guid>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</guid>
 <content:encoded><![CDATA[
-
 <p>So yesterday I announced a new feature in <a href="https://brettterpstra.com/projects/conductor/">Conductor</a> called <a href="https://brettterpstra.com/2024/05/24/conductor-filters-simplify-basic-operations/">Filters</a>. Little built-in commands for performing simple tasks without having to write whole scripts for them. In the process of writing the feature, I forgot what might be the most useful function of all: injecting JavaScripts.</p>
 
 <p>So I&rsquo;ve added <code class="language-plaintext highlighter-rouge">insertScript(path)</code> as a filter. You can give it a full path to a JavaScript file, or you can create a directory at <code class="language-plaintext highlighter-rouge">~/.config/conductor/javascript</code>, add the file there, and then just reference it by name like <code class="language-plaintext highlighter-rouge">filter: insertScript(mermaid)</code> (the <code class="language-plaintext highlighter-rouge">.js</code> is added automatically if needed). You can insert multiple scripts at once by separating the paths with commas, e.g. <code class="language-plaintext highlighter-rouge">insertScript(blog,mermaid)</code>.</p>
@@ -39,9 +91,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16693412.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-05-25T08:18:00-05:00</pubDate>
-<pubDate>2024-05-25T08:18:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Conductor filters simplify basic operations</title>
 <link>https://brett.trpstra.net/link/535/16693021/conductor-filters-simplify-basic-operations</link>
