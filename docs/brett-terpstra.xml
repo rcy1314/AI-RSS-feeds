@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Man, I should have started Conductor with filters</title>
 <link>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</link>
 <guid>https://brett.trpstra.net/link/535/16693490/man-i-should-have-started-conductor-with-filters</guid>
 <content:encoded><![CDATA[
-
 <p>I added a few more (obvious) <a href="https://brettterpstra.com/2024/05/24/conductor-filters-simplify-basic-operations/">filters</a> to <a href="https://brettterpstra.com/projects/conductor">Conductor</a> this morning. I really should have started here, it makes configuration so convenient and alleviates the need for about 50% of what you would do with scripting. Now you can do it all from one YAML file.</p>
 
 <p>The new filters are:</p>
@@ -54,9 +54,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16693490.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-05-25T11:42:00-05:00</pubDate>
-<pubDate>2024-05-25T11:42:00-05:00</pubDate>
 </item>
-
 <item>
 <title>I can't believe I forgot this Conductor filter</title>
 <link>https://brett.trpstra.net/link/535/16693412/i-cant-believe-i-forgot-this-conductor-filter</link>
