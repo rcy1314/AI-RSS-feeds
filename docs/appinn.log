@@ -24544,3 +24544,13 @@ Append: [苹果手机连接第三方蓝牙耳机后“手机音量”会被自�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-06-04 04:16:27.090857
+------------------------------------------------------
+Started: 2024-06-04 08:17:43.691480
+Existing_entries: 417
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【开发者自荐】CoolTool - 在线应用工具箱](https://meta.appinn.net/t/topic/57294)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [【开发者自荐】维克日记 - 设计优雅、开箱即用的跨平台本地日记软件](https://meta.appinn.net/t/topic/57252)
+append_entries: 2
+Finish: 2024-06-04 08:17:47.275663
