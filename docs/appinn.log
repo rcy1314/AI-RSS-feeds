@@ -25238,3 +25238,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-18 08:18:59.203683
+------------------------------------------------------
+Started: 2024-06-18 12:27:12.237249
+Existing_entries: 431
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [[开发者自荐] 开源的聚合多种AI模型的浏览器侧边栏插件，Sider, Monica, Merlin 免费平替](https://meta.appinn.net/t/topic/57806)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【自荐】你的好友管理神器](https://meta.appinn.net/t/topic/57803)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-06-18 12:27:15.281984
