@@ -4,12 +4,12 @@
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
 
+
 <item>
 <title>Markdown Lipsum v2</title>
 <link>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</link>
 <guid>https://brett.trpstra.net/link/535/16717305/markdown-lipsum-v2</guid>
 <content:encoded><![CDATA[
-
 <p>I know it&rsquo;s been <a href="https://brettterpstra.com//2024/06/14/a-markdown-lorem-ipsum-api/">less than a week</a> since v1, but I made some major changes to <a href="https://brettterpstra.com//md-lipsum/">md-lipsum</a> that warrant a version 2.</p>
 
 <p>Basically, I incorporated all of the API options from <a href="https://loripsum.net/">Loripsum.net</a>, meaning you can now specify how many paragraphs and what elements are included. You can still get a full Markdown document with all elements using <a href="https://brettterpstra.com/md-lipsum/api/2/all">https://brettterpstra.com/md-lipsum/api/2/all</a>. You can include <code class="language-plaintext highlighter-rouge">/short</code>, <code class="language-plaintext highlighter-rouge">/medium</code>, <code class="language-plaintext highlighter-rouge">/long</code>, or <code class="language-plaintext highlighter-rouge">/verylong</code> in the path to determine paragraph length (can be shortened to <code class="language-plaintext highlighter-rouge">s</code>, <code class="language-plaintext highlighter-rouge">m</code>, <code class="language-plaintext highlighter-rouge">l</code>, <code class="language-plaintext highlighter-rouge">vl</code>), and/or a number to determine the number of paragraphs. More paragraphs means more header levels, too. Example:</p>
@@ -31,9 +31,7 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p><img height="1" src="https://brett.trpstra.net/link/535/16717305.gif" width="1" />
 ]]></content:encoded>
 <pubDate>2024-06-17T12:04:00-05:00</pubDate>
-<pubDate>2024-06-17T12:04:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Text Blaze shareable folders</title>
 <link>https://brett.trpstra.net/link/535/16715638/text-blaze-shareable-folders</link>
