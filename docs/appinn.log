@@ -26130,3 +26130,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-06 12:24:50.289948
+------------------------------------------------------
+Started: 2024-07-06 16:16:09.643972
+Existing_entries: 451
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [求一个 Chrome 浏览器的图片 OCR 翻译插件](https://meta.appinn.net/t/topic/58431)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-07-06 16:16:12.610521
