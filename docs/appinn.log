@@ -26229,3 +26229,11 @@ Append: [【自荐】潮汐小说阅读器大更新：支持全平台跨端同�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 2
 Finish: 2024-07-08 12:28:24.506570
+------------------------------------------------------
+Started: 2024-07-08 16:18:21.921428
+Existing_entries: 454
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-07-08 16:18:24.260246
