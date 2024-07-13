@@ -26475,3 +26475,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-13 04:16:33.202358
+------------------------------------------------------
+Started: 2024-07-13 08:16:16.677905
+Existing_entries: 476
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [探索一种长期可靠的笔记方案](https://meta.appinn.net/t/topic/58684)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-07-13 08:16:19.352508
