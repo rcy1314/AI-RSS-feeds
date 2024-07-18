@@ -5460,3 +5460,12 @@ Existing_entries: 32
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-07-18 08:18:35.616643
+------------------------------------------------------
+Started: 2024-07-18 12:28:55.294561
+Existing_entries: 32
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Active reading: how to become a better reader](https://nesslabs.com/active-reading?utm_source=rss&utm_medium=rss&utm_campaign=active-reading)
+append_entries: 1
+Finish: 2024-07-18 12:28:56.212667
