@@ -26943,3 +26943,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [Balance Lock解决macOS左右声道平衡偏移bug](https://meta.appinn.net/t/topic/29316)
 append_entries: 1
 Finish: 2024-07-22 16:18:27.878893
+------------------------------------------------------
+Started: 2024-07-22 20:15:14.138532
+Existing_entries: 488
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-07-22 20:15:17.046914
