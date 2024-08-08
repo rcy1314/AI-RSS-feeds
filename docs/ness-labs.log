@@ -6234,3 +6234,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [The Curse of Knowledge](https://nesslabs.com/curse-of-knowledge?utm_source=rss&utm_medium=rss&utm_campaign=curse-of-knowledge)
 append_entries: 1
 Finish: 2024-08-08 12:28:38.409001
+------------------------------------------------------
+Started: 2024-08-08 16:18:18.950749
+Existing_entries: 36
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-08-08 16:18:19.520789

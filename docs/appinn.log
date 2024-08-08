@@ -27771,3 +27771,11 @@ Append: [【自荐】Joyway: 审美在线的运动记录 iOS App](https://meta.a
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-08-08 12:28:22.808987
+------------------------------------------------------
+Started: 2024-08-08 16:18:01.280368
+Existing_entries: 508
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-08-08 16:18:04.154701
