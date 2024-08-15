@@ -28115,3 +28115,14 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/appinn
+------------------------------------------------------
+Started: 2024-08-15 08:18:44.952628
+Existing_entries: 514
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Feed error: 403
+Fetching from https://meta.appinn.net/tag/ios.rss
+Feed error: 403
+Fetching from https://meta.appinn.net/tag/macos.rss
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/appinn
