@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>BrettTerpstra.com</title>
+<title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
 <link>https://brettterpstra.com/</link>
+
 
 <item>
 <title>Relaunched T-shirts for The Lab and Rock Scissors</title>
 <link>https://brettterpstra.com/2024/08/14/relaunched-t-shirts-for-the-lab-and-rock-scissors/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/08/14/relaunched-t-shirts-for-the-lab-and-rock-scissors/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://lab.creator-spring.com/">
               <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -55,14 +55,12 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-08-14T11:38:00-05:00</pubDate>
-<pubDate>2024-08-14T11:38:00-05:00</pubDate>
 </item>
 <item>
 <title>Add SearchLink plugins using any programming language</title>
 <link>https://brettterpstra.com/2024/08/10/add-searchlink-plugins-using-any-programming-language/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/08/10/add-searchlink-plugins-using-any-programming-language/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -88,14 +86,12 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-08-10T13:38:00-05:00</pubDate>
-<pubDate>2024-08-10T13:38:00-05:00</pubDate>
 </item>
 <item>
 <title>SearchLink with improved bookmark and history searching</title>
 <link>https://brettterpstra.com/2024/08/09/searchlink-with-improved-bookmark-and-history-searching/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/08/09/searchlink-with-improved-bookmark-and-history-searching/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p>As many of these updates seem to, this one started with a bug report from my friend Jay Miller, which caused me to run the test suite on <a href="https://brettterpstra.com/projects/searchlink/">SearchLink</a> and discover a few things had broken since I last looked at it. So you get an update.</p>
 
 <p>Aside from fixing bugs that had cropped up, I spent some time on the various browser searching tools. SearchLink can <a href="https://github.com/ttscoff/searchlink/wiki/Searching-Browser-History-And-Bookmarks">scan your browser bookmarks and browsing history</a> to find the most relevant link for a search term. It works with Arc, Chrome, Firefox, Edge, and Safari. And it&rsquo;s pretty cool for grabbing links to things you&rsquo;ve already visited or bookmarked.</p>
@@ -117,14 +113,12 @@
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-08-09T12:47:00-05:00</pubDate>
-<pubDate>2024-08-09T12:47:00-05:00</pubDate>
 </item>
 <item>
 <title>Speed up development with Howzit templates</title>
 <link>https://brettterpstra.com/2024/08/05/speed-up-development-with-howzit-templates/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/08/05/speed-up-development-with-howzit-templates/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -221,14 +215,12 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-08-05T14:35:00-05:00</pubDate>
-<pubDate>2024-08-05T14:35:00-05:00</pubDate>
 </item>
 <item>
 <title>Binbundle: A gem for saving and restoring gem binaries</title>
 <link>https://brettterpstra.com/2024/08/02/binbundle-a-gem-for-restoring-gem-binaries/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/08/02/binbundle-a-gem-for-restoring-gem-binaries/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p>I published a script yesterday for creating a &ldquo;bundle file&rdquo; of all binaries (executables) on your system that rely on Rubygems to install. These aren&rsquo;t covered by Homebrew&rsquo;s bundle command and I wanted easy system restore via my dotfiles setup.</p>
 
 <p>But&hellip; because it deals specifically with gems, I figured why not make it a gem and make it easy to install?</p>
@@ -244,14 +236,12 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-08-02T11:06:00-05:00</pubDate>
-<pubDate>2024-08-02T11:06:00-05:00</pubDate>
 </item>
 <item>
 <title>Easily save and restore all of your gem executables</title>
 <link>https://brettterpstra.com/2024/08/01/easily-save-and-restore-gem-executables/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/08/01/easily-save-and-restore-gem-executables/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p>I&rsquo;ve always liked <a href="https://github.com/Homebrew/homebrew-bundle">Homebrew&rsquo;s bundle command</a>. You can save a snapshot of everything you&rsquo;ve installed with Homebrew, and then reinstall the snapshot on a new system.</p>
 
 <p>I also like <a href="https://bundler.io/">Ruby&rsquo;s Bundler</a>, which lets you save all of the gems needed by an application and then install them easily with <code class="language-plaintext highlighter-rouge">bundle install</code>.</p>
@@ -271,14 +261,12 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-08-01T14:17:00-05:00</pubDate>
-<pubDate>2024-08-01T14:17:00-05:00</pubDate>
 </item>
 <item>
 <title>Marked 2.6.39 with Streaming Preview fixes</title>
 <link>https://brettterpstra.com/2024/07/18/marked-2-dot-6-39-with-streaming-preview-fixes/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/07/18/marked-2-dot-6-39-with-streaming-preview-fixes/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -331,14 +319,12 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-07-18T11:45:00-05:00</pubDate>
-<pubDate>2024-07-18T11:45:00-05:00</pubDate>
 </item>
 <item>
 <title>Obsidian Callouts in Marked</title>
 <link>https://brettterpstra.com/2024/06/27/obsidian-callouts-in-marked/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/27/obsidian-callouts-in-marked/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -432,14 +418,12 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-27T19:17:00-05:00</pubDate>
-<pubDate>2024-06-27T19:17:00-05:00</pubDate>
 </item>
 <item>
 <title>Markdown Lipsum v2</title>
 <link>https://brettterpstra.com/2024/06/17/markdown-lipsum-v2/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/17/markdown-lipsum-v2/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p>I know it&rsquo;s been <a href="https://brettterpstra.com//2024/06/14/a-markdown-lorem-ipsum-api/">less than a week</a> since v1, but I made some major changes to <a href="https://brettterpstra.com//md-lipsum/">md-lipsum</a> that warrant a version 2.</p>
 
 <p>Basically, I incorporated all of the API options from <a href="https://loripsum.net/">Loripsum.net</a>, meaning you can now specify how many paragraphs and what elements are included. You can still get a full Markdown document with all elements using <a href="https://brettterpstra.com/md-lipsum/api/2/all">https://brettterpstra.com/md-lipsum/api/2/all</a>. You can include <code class="language-plaintext highlighter-rouge">/short</code>, <code class="language-plaintext highlighter-rouge">/medium</code>, <code class="language-plaintext highlighter-rouge">/long</code>, or <code class="language-plaintext highlighter-rouge">/verylong</code> in the path to determine paragraph length (can be shortened to <code class="language-plaintext highlighter-rouge">s</code>, <code class="language-plaintext highlighter-rouge">m</code>, <code class="language-plaintext highlighter-rouge">l</code>, <code class="language-plaintext highlighter-rouge">vl</code>), and/or a number to determine the number of paragraphs. More paragraphs means more header levels, too. Example:</p>
@@ -461,14 +445,12 @@ end
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-17T12:04:00-05:00</pubDate>
-<pubDate>2024-06-17T12:04:00-05:00</pubDate>
 </item>
 <item>
 <title>Text Blaze shareable folders</title>
 <link>https://brettterpstra.com/2024/06/15/text-blaze-shareable-folders/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/15/text-blaze-shareable-folders/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -511,14 +493,12 @@ share with <em>you</em>, but&hellip;</ins></p>
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-15T14:35:00-05:00</pubDate>
-<pubDate>2024-06-15T14:35:00-05:00</pubDate>
 </item>
 <item>
 <title>A Markdown Lorem Ipsum API</title>
 <link>https://brettterpstra.com/2024/06/14/a-markdown-lorem-ipsum-api/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/14/a-markdown-lorem-ipsum-api/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p>I built a new little API for you. It generates Markdown Lorem Ipsum. First, a little background.</p>
 
 <h3 id="why">Why?</h3>
@@ -556,14 +536,12 @@ share with <em>you</em>, but&hellip;</ins></p>
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-14T12:54:00-05:00</pubDate>
-<pubDate>2024-06-14T12:54:00-05:00</pubDate>
 </item>
 <item>
 <title>Web Excursions for June 12, 2024</title>
 <link>https://brettterpstra.com/2024/06/12/web-excursions-for-june-12-2024/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/12/web-excursions-for-june-12-2024/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
                 <source type="image/avif" />
@@ -596,14 +574,12 @@ share with <em>you</em>, but&hellip;</ins></p>
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-12T13:12:00-05:00</pubDate>
-<pubDate>2024-06-12T13:12:00-05:00</pubDate>
 </item>
 <item>
 <title>The Developer Nation Survey 27th Edition</title>
 <link>https://brettterpstra.com/2024/06/05/the-developer-nation-survey-27th-edition/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/05/the-developer-nation-survey-27th-edition/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://developereconomics.net?member_id=brett&amp;lang=en&amp;locale=en">
               <noscript class="loading-lazy">
                 <source media="(max-width: 640px)" />
@@ -636,14 +612,12 @@ prizes listed above.</p>
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-05T11:25:00-05:00</pubDate>
-<pubDate>2024-06-05T11:25:00-05:00</pubDate>
 </item>
 <item>
 <title>Adding custom search shortcuts in Firefox</title>
 <link>https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
 <guid>https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
 <content:encoded><![CDATA[
-
 <p>This might not be news to most people, but I thought I&rsquo;d point it out for any Firefox users that don&rsquo;t know about it: you can add a custom search shortcut for any site, allowing you to use a short keyword followed by search terms and execute the search without going to the site, clicking search, and entering terms.</p>
 
 <p>To add a custom search:</p>
@@ -670,9 +644,7 @@ prizes listed above.</p>
 <p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
 ]]></content:encoded>
 <pubDate>2024-06-02T15:01:00-05:00</pubDate>
-<pubDate>2024-06-02T15:01:00-05:00</pubDate>
 </item>
-
 <item>
 <title>Relaunched T-shirts for The Lab and Rock Scissors</title>
 <link>https://brett.trpstra.net/link/535/16771149/relaunched-t-shirts-for-the-lab-and-rock-scissors</link>
