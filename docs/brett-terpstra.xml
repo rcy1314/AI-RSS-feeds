@@ -1,9 +1,677 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
+<title>BrettTerpstra.com</title>
 <link>https://brettterpstra.com/</link>
 
+<item>
+<title>Relaunched T-shirts for The Lab and Rock Scissors</title>
+<link>https://brettterpstra.com/2024/08/14/relaunched-t-shirts-for-the-lab-and-rock-scissors/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/08/14/relaunched-t-shirts-for-the-lab-and-rock-scissors/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://lab.creator-spring.com/">
+              <noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="The Lab Banner" class="aligncenter" height="226" src="https://cdn3.brettterpstra.com/uploads/2024/08/the-lab-banner-rb.jpg" title="The Lab Banner" width="800" />
+              </noscript>
+            </a></p>
+
+<p>I had let the original TeeSpring stores I had set up languish, and TeeSpring changed a bunch of stuff that made all of my listings invalid. So I&rsquo;ve relaunched the storefronts with the original designs, plus some new ones.</p>
+
+<p><a href="https://lab.creator-spring.com/listing/markdown-strong?product=1565&amp;variation=104920">
+              <noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Strong coffee mug" class="alignright" height="316" src="https://cdn3.brettterpstra.com/uploads/2024/08/strong-coffee.jpg" title="Strong coffee mug" width="316" />
+              </noscript>
+            </a></p>
+
+<p><a href="https://lab.creator-spring.com/">The Lab</a> has some new logo designs, plus the &ldquo;classic&rdquo; ones. Not to be vain, but I&rsquo;d love to see the lab out there once again. I&rsquo;ve also updated the <code class="language-plaintext highlighter-rouge">**BOLD**</code> design with a new <code class="language-plaintext highlighter-rouge">**STRONG**</code> design, which makes for a great, though minimalist, <a href="https://lab.creator-spring.com/listing/markdown-strong?product=1565&amp;variation=104920">coffee mug</a>. Gruber took issue with the BOLD version from a technical standpoint, so the STRONG version should satisfy the requirements. The designs are available as various clothing items (men&rsquo;s shirts, women&rsquo;s shirts, some hoodies), and coffee mugs/stickers. Let me know if there&rsquo;s something you want but don&rsquo;t see.</p>
+
+<p><a href="https://rock-scissors.creator-spring.com/listing/new-hope-you-guess-my-name?product=369&amp;variation=6565">
+              <noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="pleased-to-meet-you.jpg" class="alignright" height="400" src="https://cdn3.brettterpstra.com/uploads/2024/08/pleased-to-meet-you.jpg" title="pleased-to-meet-you.jpg" width="400" />
+              </noscript>
+            </a></p>
+
+<p>The <a href="https://rock-scissors.creator-spring.com/">Rock Scissors</a> store offers some of the old Rock and Roll-inspired designs, plus a new one I like: The <a href="https://rock-scissors.creator-spring.com/listing/new-hope-you-guess-my-name?product=369&amp;variation=6565">hope you guess my name</a> shirt as a tribute to the Stones. My favorite shirt, the tribute to Black Flag, The Ramones, and The Sex Pistols refuses to list, but I have a customer support query in and hope that one shows up soon.</p>
+
+<p>I don&rsquo;t make much profit off this stuff, it&rsquo;s more of a labor of love, but it&rsquo;s definitely a way of supporting my work. Please enjoy!</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112961386428400203" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F14%2Frelaunched-t-shirts-for-the-lab-and-rock-scissors%2F&amp;text=Relaunched+T-shirts+for+The+Lab+and+Rock+Scissors&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F14%2Frelaunched-t-shirts-for-the-lab-and-rock-scissors%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-08-14T11:38:00-05:00</pubDate>
+<pubDate>2024-08-14T11:38:00-05:00</pubDate>
+</item>
+<item>
+<title>Add SearchLink plugins using any programming language</title>
+<link>https://brettterpstra.com/2024/08/10/add-searchlink-plugins-using-any-programming-language/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/08/10/add-searchlink-plugins-using-any-programming-language/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="searchlink-text-short-400.jpg" class="alignright" height="142" src="https://cdn3.brettterpstra.com/uploads/2023/01/searchlink-text-short-400.jpg" title="searchlink-text-short-400.jpg" width="400" />
+              </noscript>
+            
+<p>Last night I had a dream that someone had asked if they could write <a href="https://brettterpstra.com/projects/searchlink/">SearchLink</a> plugins in Python. The answer was no, but it got me thinking. To be clear, no one has asked for this, but I did some Saturday morning coding anyway.</p>
+
+<p>You can now write a script in any language, and as long as it returns YAML or JSON with appropriate keys, it will work as a SearchLink plugin. So anything you can get results from in your favorite language, you can add to SearchLink.</p>
+
+<p>Each plugin requires a config file, which can be YAML or JSON. Details are now all in the <a href="https://github.com/ttscoff/searchlink/wiki/Plugins#script-plugins">Plugins wiki page</a>.</p>
+
+<p>I also added a new feature for processing bare URLs in a document or selection. If <code class="language-plaintext highlighter-rouge">complete_bare: true</code> is <a href="https://github.com/ttscoff/searchlink/wiki/Configuration">set in config</a> or at the top of a file/selection, any URLs that are not self-linked (wrapped in angle brackets) or part of a Markdown link (in parenthesis or after &ldquo;: &ldquo;) will be turned into full Markdown links with page titles as link text. It&rsquo;s perfect for gathering Podcast show notes or blog link posts when you just have a list of URLs.</p>
+
+<div class="download" id="dlbox"><h4>SearchLink v2.3.71</h4><p class="dl-icon"><a href="https://github.com/ttscoff/searchlink/releases/latest/download/SearchLink.zip" title="Download SearchLink v2.3.71"><img height="100" src="https://cdn3.brettterpstra.com/uploads/2023/01/searchlink-thumbnail.jpg" width="100" /></a></p><div class="dl-body"><p class="dl-link"><a href="https://github.com/ttscoff/searchlink/releases/latest/download/SearchLink.zip" title="Download SearchLink v2.3.71">Download SearchLink v2.3.71</a></p><p class="dl-description">Generate Markdown links from web searches without leaving your editor.</p><p class="dl-published">Published 11/10/14.</p><p class="dl-updated">Updated 08/11/24. <a class="changelog" href="https://brettterpstra.com/projects/searchlink/#changelog">Changelog</a></p><p class="dl-info"><a href="https://brettterpstra.com//donate/">Donate</a> &bull; <a href="https://brettterpstra.com//projects/searchlink/" title="More information on SearchLink">More info&hellip;</a></p></div></div>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112939306852640529" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F10%2Fadd-searchlink-plugins-using-any-programming-language%2F&amp;text=Add+SearchLink+plugins+using+any+programming+language&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F10%2Fadd-searchlink-plugins-using-any-programming-language%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-08-10T13:38:00-05:00</pubDate>
+<pubDate>2024-08-10T13:38:00-05:00</pubDate>
+</item>
+<item>
+<title>SearchLink with improved bookmark and history searching</title>
+<link>https://brettterpstra.com/2024/08/09/searchlink-with-improved-bookmark-and-history-searching/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/08/09/searchlink-with-improved-bookmark-and-history-searching/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p>As many of these updates seem to, this one started with a bug report from my friend Jay Miller, which caused me to run the test suite on <a href="https://brettterpstra.com/projects/searchlink/">SearchLink</a> and discover a few things had broken since I last looked at it. So you get an update.</p>
+
+<p>Aside from fixing bugs that had cropped up, I spent some time on the various browser searching tools. SearchLink can <a href="https://github.com/ttscoff/searchlink/wiki/Searching-Browser-History-And-Bookmarks">scan your browser bookmarks and browsing history</a> to find the most relevant link for a search term. It works with Arc, Chrome, Firefox, Edge, and Safari. And it&rsquo;s pretty cool for grabbing links to things you&rsquo;ve already visited or bookmarked.</p>
+
+<p>Now these tools also work with profiles in most browsers, scanning all available profiles for matches. You can&rsquo;t currently specify a single profile, but if a bookmark or history item exists in <em>any</em> of your profiles, it will be found.</p>
+
+<p>I also overhauled the Arc support, as the bookmark file format has changed since I first implemented it, diverging from standard Chromium fare. Should work fine now.</p>
+
+<p>Not a major update, but it&rsquo;s worth mentioning. If you write Markdown and haven&rsquo;t tried SearchLink, I highly recommend <a href="https://brettterpstra.com/projects/searchlink/">taking a look</a>!</p>
+
+<p>Download the latest version below:</p>
+
+<div class="download" id="dlbox"><h4>SearchLink v2.3.71</h4><p class="dl-icon"><a href="https://github.com/ttscoff/searchlink/releases/latest/download/SearchLink.zip" title="Download SearchLink v2.3.71"><img height="100" src="https://cdn3.brettterpstra.com/uploads/2023/01/searchlink-thumbnail.jpg" width="100" /></a></p><div class="dl-body"><p class="dl-link"><a href="https://github.com/ttscoff/searchlink/releases/latest/download/SearchLink.zip" title="Download SearchLink v2.3.71">Download SearchLink v2.3.71</a></p><p class="dl-description">Generate Markdown links from web searches without leaving your editor.</p><p class="dl-published">Published 11/10/14.</p><p class="dl-updated">Updated 08/11/24. <a class="changelog" href="https://brettterpstra.com/projects/searchlink/#changelog">Changelog</a></p><p class="dl-info"><a href="https://brettterpstra.com//donate/">Donate</a> &bull; <a href="https://brettterpstra.com//projects/searchlink/" title="More information on SearchLink">More info&hellip;</a></p></div></div>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112933372665209413" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F09%2Fsearchlink-with-improved-bookmark-and-history-searching%2F&amp;text=SearchLink+with+improved+bookmark+and+history+searching&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F09%2Fsearchlink-with-improved-bookmark-and-history-searching%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-08-09T12:47:00-05:00</pubDate>
+<pubDate>2024-08-09T12:47:00-05:00</pubDate>
+</item>
+<item>
+<title>Speed up development with Howzit templates</title>
+<link>https://brettterpstra.com/2024/08/05/speed-up-development-with-howzit-templates/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/08/05/speed-up-development-with-howzit-templates/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Howzit Banner" class="aligncenter" height="226" src="https://cdn3.brettterpstra.com/uploads/2023/03/howzitdeploy2-rb.jpg" title="Howzit Banner" width="800" />
+              </noscript>
+            
+
+<p>Ok, so you may or may not have heard of my <a href="https://brettterpstra.com/projects/howzit/">Howzit</a> project, so I&rsquo;ll begin by recapping. &ldquo;Howzit&rdquo; is a contraction of &ldquo;how does it&rdquo; that allows you to query any project with commands like <code class="language-plaintext highlighter-rouge">howzit build</code> or <code class="language-plaintext highlighter-rouge">howzit deploy</code> and get documentation, as well as automatically execute the necessary steps for a task. I use it almost every day and it has saved me a crazy amount of time over the years, especially in picking up on projects I haven&rsquo;t touched for a while.</p>
+
+<p>The heart of the system is a &ldquo;buildnotes.md&rdquo; file located in the root of your project. This is a Markdown file where you describe each topic, e.g. <code class="language-plaintext highlighter-rouge">Deploy</code>, listing out any pertinent info. Just stop and think &ldquo;if I come back to this a year from now, what would I need to know?&rdquo; You can include &ldquo;directives&rdquo; that can do things like copy strings to your clipboard or execute code or commands. If you just run <code class="language-plaintext highlighter-rouge">howzit TOPIC</code> it will show you your documentation, and if you run <code class="language-plaintext highlighter-rouge">howzit -r TOPIC</code>, it will execute any directives in the topic.</p>
+
+<p>Ok, so on to templates. I&rsquo;ve added a lot of functionality to Howzit over the years, but templates have turned out to be my favorite extension. Templates allow you to store reusable tasks in a single file, and then include all of those tasks with a single line at the top of a build notes file.</p>
+
+<p>Everything discussed in this post can be found in <a href="https://github.com/ttscoff/howzit/wiki">the Howzit wiki</a>, specifically the <a href="https://github.com/ttscoff/howzit/wiki/Templates-and-metadata">Templates and Metadata</a> page.</p>
+
+<!--more-->
+
+<p>Templates are stored in <code class="language-plaintext highlighter-rouge">~/.config/howzit/templates</code> and are just Markdown files formatted like any <code class="language-plaintext highlighter-rouge">buildnotes.md</code> file. Markdown headers for topics, and they can contain text, lists, tables, and, most importantly for my purposes, directives. They&rsquo;re given a short filename like <code class="language-plaintext highlighter-rouge">git.md</code> or <code class="language-plaintext highlighter-rouge">swift.md</code> and saved to the aforementioned directory. Then, in any build notes file, you can add a line at the top like:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>template: swift, git</code></pre></div></div>
+
+<p>All of the tasks in those templates are now automatically included in your build notes without any additional documentation. If you frequently use the same tools and structures for projects of the same kind, this greatly reduces the time it takes to document while minimizing errors.</p>
+
+<p>For example, in many of my templates there&rsquo;s a topic called &ldquo;Deploy.&rdquo; This topic contains the steps necessary to publish a project, specific to the type of project it is. I have one for Swift command line tools, one for Ruby gems, one for Sparkle-based Mac apps, etc. The benefit of always naming the topic &ldquo;Deploy&rdquo; is that in <em>any</em> project I can just run <code class="language-plaintext highlighter-rouge">howzit -r deploy</code> and deploy that project without looking anything up or remembering multiple steps<sup id="fnref:steps"><a class="footnote" href="https://brettterpstra.com#fn:steps" rel="footnote">1</a></sup>.</p>
+
+<p>You can also specify variables in templates, which are then defined in the individual build notes, allowing for reusable code that&rsquo;s still tailored per-project. For example, for projects that get published to both GitHub and my blog, I have a system that allows me to create a <code class="language-plaintext highlighter-rouge">src/_README.md</code> file containing special syntax that creates different output for my Jekyll-based project page and my GitHub README. In the template for such a project, I have variables for the project name, README source, and changelog location. The README source and changelog variables have default values (<code class="language-plaintext highlighter-rouge">src/_README.md</code> and <code class="language-plaintext highlighter-rouge">CHANGELOG.md</code>), but the blog project name (which is used to locate the file that generates a project page) varies with each project. So the <code class="language-plaintext highlighter-rouge">project</code> variable is required and Howzit will let me know if I&rsquo;ve included that template and not defined that variable.</p>
+
+<p>As an example, here&rsquo;s my <code class="language-plaintext highlighter-rouge">markdown.md</code> template, which has actions for spellchecking using <code class="language-plaintext highlighter-rouge">aspell</code>. It allows an optional variable for specifying subdirectories of Markdown files that should be spellchecked, defaulting to just the current folder.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>optional: dirs
+
+# Markdown
+
+### Spellcheck
+
+Check spelling of all Markdown files in git repo.
+
+```run Spellcheck all files
+#!/bin/bash
+for dir in [%dirs:.]; do
+    cd "$dir"
+    /Users/ttscoff/scripts/spellcheck.bash
+    cd -
+done
+```
+
+### Spellcheck Modified
+
+Check spelling of Markdown files marked as dirty in git.
+
+```run Spellcheck modified files only
+#!/usr/bin/env ruby
+# Spell check changed Markdown files
+
+staged = `git diff-index --name-status --cached HEAD`.strip.split(/\n/).map {|f| f.sub(/^\s*(A|M)\s*/, '')}
+partial = `git status --porcelain --untracked-files=no`.strip.split(/\n/).map {|f| f.sub(/^\s*(A|M)\s*/, '')}
+changed = staged.concat(partial).sort.uniq
+changed.select! {|f| f =~ /(md|markdown)$/ }
+
+home = ENV['HOME']
+
+changed.each do |file|
+  system %(aspell -M --lang=en --dont-backup --home-dir=#{home} --personal=#{home}/aspell.txt check "#{file}")
+end
+```</code></pre></div></div>
+
+<p>Or a simpler one: if the project has a Sublime Text project associated with it, I can just add <code class="language-plaintext highlighter-rouge">template: sublime</code> and it will offer me this action:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>required: project_file
+
+## Edit Project
+
+@run(subl -p [%project_file].sublime-project)</code></pre></div></div>
+
+<p>I just define <code class="language-plaintext highlighter-rouge">project_file: binbundle</code> in my build notes, and then running <code class="language-plaintext highlighter-rouge">howzit -r edit</code> will open the project in Sublime. I can create one of these for every possible editor/project type, always using &ldquo;Edit Project&rdquo; as the topic title, and include the appropriate template in each project. Then <code class="language-plaintext highlighter-rouge">howzit -r edit</code> will always open the correct project file in the correct editor.</p>
+
+<p>You can get a list of all of your templates by running <code class="language-plaintext highlighter-rouge">howzit --templates</code>. This will show you all templates, what actions they define, and what variables can be (or must be) set for them. You can open any template in your editor by running <code class="language-plaintext highlighter-rouge">howzit --edit-template NAME</code>.</p>
+
+<p>Like I said up top, the longer I use Howzit the more times it saves my butt. It&rsquo;s among the most useful things I&rsquo;ve built and I think every developer should <a href="https://brettterpstra.com/projects/howzit/">give it a shot</a>. If you love it, <a href="https://brettterpstra.com/donate/">buy me some coffee</a> or <a href="https://brettterpstra.com/support/">become a supporter</a> to ensure future development of this and all of my other projects.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:steps">
+      <p>These Deploy topics handle updating changelogs, tagging git releases, pushing changes, compiling distributable versions, updating blog projects and READMEs&hellip; way more steps than I&rsquo;d want to remember when moving between projects.&nbsp;<a class="reversefootnote" href="https://brettterpstra.com#fnref:steps">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112911148582932920" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F05%2Fspeed-up-development-with-howzit-templates%2F&amp;text=Speed+up+development+with+Howzit+templates&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F05%2Fspeed-up-development-with-howzit-templates%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-08-05T14:35:00-05:00</pubDate>
+<pubDate>2024-08-05T14:35:00-05:00</pubDate>
+</item>
+<item>
+<title>Binbundle: A gem for saving and restoring gem binaries</title>
+<link>https://brettterpstra.com/2024/08/02/binbundle-a-gem-for-restoring-gem-binaries/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/08/02/binbundle-a-gem-for-restoring-gem-binaries/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p>I published a script yesterday for creating a &ldquo;bundle file&rdquo; of all binaries (executables) on your system that rely on Rubygems to install. These aren&rsquo;t covered by Homebrew&rsquo;s bundle command and I wanted easy system restore via my dotfiles setup.</p>
+
+<p>But&hellip; because it deals specifically with gems, I figured why not make it a gem and make it easy to install?</p>
+
+<p>So I present <a href="https://brettterpstra.com//projects/binbundle/">Binbundle</a>, the same script as yesterday, but elaborated on and in gem form.</p>
+
+<p>See the <a href="https://brettterpstra.com//projects/binbundle">project page</a> for details on installation and usage. This project combined with <a href="https://github.com/anishathalye/dotbot">Dotbot</a> makes for a very easy way to restore all of those binaries that Homebrew misses.</p>
+
+<p>Like or share this post <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F02%2Fbinbundle-a-gem-for-restoring-gem-binaries%2F&amp;text=Binbundle%3A+A+gem+for+saving+and+restoring+gem+binaries&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F02%2Fbinbundle-a-gem-for-restoring-gem-binaries%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-08-02T11:06:00-05:00</pubDate>
+<pubDate>2024-08-02T11:06:00-05:00</pubDate>
+</item>
+<item>
+<title>Easily save and restore all of your gem executables</title>
+<link>https://brettterpstra.com/2024/08/01/easily-save-and-restore-gem-executables/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/08/01/easily-save-and-restore-gem-executables/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p>I&rsquo;ve always liked <a href="https://github.com/Homebrew/homebrew-bundle">Homebrew&rsquo;s bundle command</a>. You can save a snapshot of everything you&rsquo;ve installed with Homebrew, and then reinstall the snapshot on a new system.</p>
+
+<p>I also like <a href="https://bundler.io/">Ruby&rsquo;s Bundler</a>, which lets you save all of the gems needed by an application and then install them easily with <code class="language-plaintext highlighter-rouge">bundle install</code>.</p>
+
+<p>However, I don&rsquo;t like installing Ruby gems with Homebrew, mostly because brew-gem isn&rsquo;t up-to-date and barely functions these days. I install all of my gems with just <code class="language-plaintext highlighter-rouge">gem install</code>.</p>
+
+<p>Because of this, binaries that are installed by gems aren&rsquo;t included when I do a <code class="language-plaintext highlighter-rouge">brew bundle install</code>. And Ruby&rsquo;s bundler is project-specific. So I <a href="https://github.com/ttscoff/bundle_gem_bins">wrote a script</a> that will save a snapshot of every gem that has a binary installed on your system, and then do a <code class="language-plaintext highlighter-rouge">gem install</code> on all of them when setting up a new system.</p>
+
+<p>I gave it a decent README, so if this is of interest, go check it out. If you use any of my tools like <code class="language-plaintext highlighter-rouge">howzit</code> or <code class="language-plaintext highlighter-rouge">na</code>, you&rsquo;ve probably installed those with <code class="language-plaintext highlighter-rouge">gem install</code> and they won&rsquo;t be included if you try to restore using Homebrew (or dot files, etc.). So do yourself a favor and create a snapshot!</p>
+
+<p>Please share issues and suggestions using the Issues section of the script&rsquo;s <a href="https://github.com/ttscoff/bundle_gem_bins">GitHub home</a>.</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112888408300496353" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F01%2Feasily-save-and-restore-gem-executables%2F&amp;text=Easily+save+and+restore+all+of+your+gem+executables&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F08%2F01%2Feasily-save-and-restore-gem-executables%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-08-01T14:17:00-05:00</pubDate>
+<pubDate>2024-08-01T14:17:00-05:00</pubDate>
+</item>
+<item>
+<title>Marked 2.6.39 with Streaming Preview fixes</title>
+<link>https://brettterpstra.com/2024/07/18/marked-2-dot-6-39-with-streaming-preview-fixes/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/07/18/marked-2-dot-6-39-with-streaming-preview-fixes/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Marked 2 Icon" class="alignright" height="350" src="https://cdn3.brettterpstra.com/uploads/2021/04/marked2icon.png" title="Marked 2 Icon" width="350" />
+              </noscript>
+            
+<p>There&rsquo;s a new version of <a href="https://marked2app.com/" title="Smarter tools for smarter writers">Marked 2</a> out (available on all channels) that adds some important fixes and a couple of new features.</p>
+
+<h3 id="streaming-preview">Streaming Preview</h3>
+
+<p>First off, I fixed the Streaming Preview for everybody. Every time I fixed it to work with The Archive, I broke it for Drafts, and so on. I&rsquo;m certain I&rsquo;ve solve the problem for both use cases now. I could be proven wrong, but extensive testing and confirmation from bug testers has me pretty sure. So now you can use the streaming feature of apps like The Archive and Drafts without issue.</p>
+
+<p>I also did some cleanup of the Preferences window while I was in there, but that&rsquo;s purely aesthetic. Someday (probably sooner than later) I&rsquo;ll revamp the whole preference system to use a sidebar for the pane selection like System Settings does on macOS these days.</p>
+
+<h3 id="custom-internal-processors">Custom (Internal) Processors</h3>
+
+<p>The new features I added are around custom processors, kind of. Previously, you could have any processor return just the string &ldquo;NOCUSTOM&rdquo; to skip using the custom processor and resort to using the default internal processor, either MultiMarkdown v5 or Discount (GFM). Now you can also return &ldquo;MULTIMARKDOWN&rdquo; (or MMD) or &ldquo;DISCOUNT&rdquo; (or GFM) to specify exactly which internal processor to use.</p>
+
+<p>The change makes it easy to develop custom processors that can still have different rendering without having to do any of the rendering using command line tools. It also makes it to handle processing using <a href="https://brettterpstra.com/2024/04/25/introducing-the-marked-conductor/" title="Introducing the Marked Conductor">Conductor</a> by simply using <code class="language-plaintext highlighter-rouge">command: echo MMD</code> in a track.</p>
+
+<p>In addition to the Custom Processor return strings, you can also use metadata:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>Custom Processor: MultiMarkdown</code></pre></div></div>
+
+<p>Or just:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>processor: gfm</code></pre></div></div>
+
+<p>This allows per-document settings. In Conductor, you can create a preprocessor track that uses the <code class="language-plaintext highlighter-rouge">addMeta</code> filter:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>- condition: phase is pre
+  tracks:
+    - condition: file name is README.md
+      filter: addMeta(processor, gfm)</code></pre></div></div>
+
+<p>Or implement it in any way that works for you, even manually or as part of a TextExpander/Blaze snippet.</p>
+
+<p>The update is available now, so go get it! &ldquo;Check for Updates&rdquo; in the direct version, and Setapp and the Mac App Store should update you automatically. Look for version 2.6.39 or newer.</p>
+
+<p>If you&rsquo;ve been using <a href="https://marked2app.com/" title="Smarter tools for smarter writers">Marked 2</a> for years, you may have noticed you&rsquo;ve never had to pay an upgrade fee for new features. Someday I&rsquo;ll put out a v3 and bill for it, or (heaven forbid) switch to subscriptions, but for now if you want to support development, feel free to <a href="https://brettterpstra.com//donate">donate</a> or, better yet, <a href="https://brettterpstra.com//support">become a supporter</a>!</p>
+
+<p>By the way, if you&rsquo;re using Conductor make sure you have the latest version (1.0.24 as of this writing), there have been some important bugfixes in the last few days.</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112808538297534786" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F07%2F18%2Fmarked-2-dot-6-39-with-streaming-preview-fixes%2F&amp;text=Marked+2.6.39+with+Streaming+Preview+fixes&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F07%2F18%2Fmarked-2-dot-6-39-with-streaming-preview-fixes%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-07-18T11:45:00-05:00</pubDate>
+<pubDate>2024-07-18T11:45:00-05:00</pubDate>
+</item>
+<item>
+<title>Obsidian Callouts in Marked</title>
+<link>https://brettterpstra.com/2024/06/27/obsidian-callouts-in-marked/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/27/obsidian-callouts-in-marked/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Obsidian Callouts Header" class="aligncenter" height="226" src="https://cdn3.brettterpstra.com/uploads/2024/06/obsidian-callouts-header-2-rb.jpg" title="Obsidian Callouts Header" width="800" />
+              </noscript>
+            
+
+<p>I received a request a while back, shortly after my post about <a href="https://brettterpstra.com/2024/05/16/marked-2-and-obsidian/">Marked 2 and Obsidian</a>, asking me to support <a href="https://help.obsidian.md/Editing+and+formatting/Callouts">Obsidian callouts</a>. I don&rsquo;t remember who made the request, but it got lodged in the back of my head. I had an hour today to knock out a solution.</p>
+
+<p>Rather than trying to incorporate this directly into Marked, I made it a script that can be included in a <a href="https://brettterpstra.com/projects/conductor/">Conductor</a> configuration. Easier, and less intrusive to Marked users who don&rsquo;t care about Obsidian.</p>
+
+<p><a href="https://help.obsidian.md/Editing+and+formatting/Callouts">Obsidian callouts</a> are a block quote-style syntax that looks like:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code><span class="gt">&gt; [!note] A note with Markdown content</span>
+<span class="gt">&gt; Just *checking*</span>
+<span class="gt">&gt; how this **works**... </span>
+<span class="gt">&gt; [a link](https://brettterpstra.com)</span></code></pre></div></div>
+
+<p>They can be made to fold, nested in each other, have a title only, or a title with content processed as Markdown. Here&rsquo;s how they look in Obsidian:</p>
+
+<figure class="aligncenter">
+              
+                <noscript class="loading-lazy">
+                  <source media="(max-width: 640px)" />
+                  <source type="image/avif" />
+                  <source type="image/webp" />
+                  <source />
+                  <img alt="Callouts in Obsidian" height="530" src="https://cdn3.brettterpstra.com/uploads/2024/06/callouts-obsidian-800.jpg" title="Callouts in Obsidian" width="800" />
+                </noscript>
+              
+              <figcaption>Callouts in Obsidian</figcaption>
+            </figure>
+
+<p>And with the script, here&rsquo;s how they look in Marked:</p>
+
+<figure class="aligncenter">
+              
+                <noscript class="loading-lazy">
+                  <source media="(max-width: 640px)" />
+                  <source type="image/avif" />
+                  <source type="image/webp" />
+                  <source />
+                  <img alt="Callouts in Marked" height="502" src="https://cdn3.brettterpstra.com/uploads/2024/06/callouts-marked-2.jpg" title="callouts-marked-2.jpg" width="838" />
+                </noscript>
+              
+              <figcaption>callouts-marked-2.jpg</figcaption>
+            </figure>
+
+<p>The output is just nested divs with classes, so a separate stylesheet is required to make them look correct. This stylesheet is injected by Conductor as well, and adapts pretty well to any Style in Marked. For example, here it is with the Manuscript style:</p>
+
+<figure class="aligncenter">
+              
+                <noscript class="loading-lazy">
+                  <source media="(max-width: 640px)" />
+                  <source type="image/avif" />
+                  <source type="image/webp" />
+                  <source />
+                  <img alt="Callouts in Manuscript" height="500" src="https://cdn3.brettterpstra.com/uploads/2024/06/callouts-manuscript.jpg" title="Callouts in Manuscript" width="860" />
+                </noscript>
+              
+              <figcaption>Callouts in Manuscript</figcaption>
+            </figure>
+
+<p>I separated the script from the main Obsidian script so that, should you want to, you can run it on any content and make use of the Obsidian callout syntax irrespective of other syntax.</p>
+
+<p>The script is in my <a href="https://github.com/ttscoff/conductor-config/tree/main">Conductor example config</a>, along with the stylesheet document. You can see in the <a href="https://github.com/ttscoff/conductor-config/blob/main/tracks.yaml#L17">tracks.yaml</a> file that the script and injection are defined as a <code class="language-plaintext highlighter-rouge">sequence</code>:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code><span class="na">tracks</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s">Preprocessing</span>
+    <span class="na">condition</span><span class="pi">:</span> <span class="s">phase is pre</span>
+    <span class="na">tracks</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s">Obsidian Markdown document</span>
+      <span class="na">condition</span><span class="pi">:</span> <span class="s">tree contains .obsidian AND (extension is md OR extension is markdown)</span>
+      <span class="na">sequence</span><span class="pi">:</span>
+        <span class="pi">-</span> <span class="na">script</span><span class="pi">:</span> <span class="s">obsidian-md-filter</span>
+        <span class="pi">-</span> <span class="na">script</span><span class="pi">:</span> <span class="s">obsidian-callouts</span>
+        <span class="pi">-</span> <span class="na">filter</span><span class="pi">:</span> <span class="s">insertCSS(callouts)</span></code></pre></div></div>
+
+<blockquote>
+  <p>Note that this makes use of the insertCSS() filter, which I just added in conductor 1.0.16, so make sure you update. This filter compresses the CSS and injects it at the beginning of the document, after any existing metadata.</p>
+</blockquote>
+
+<p>The files you need are <a href="https://github.com/ttscoff/conductor-config/blob/main/scripts/obsidian-callouts">the script</a> (placed in <code class="language-plaintext highlighter-rouge">~/.config/conductor/scripts/</code>) and <a href="https://github.com/ttscoff/conductor-config/blob/main/css/callouts.css">the style</a> (placed in <code class="language-plaintext highlighter-rouge">~/.config/conductor/css/</code>). Both of these are included if you just clone the <a href="https://github.com/ttscoff/conductor-config/tree/main">example config repo</a>. Then include a sequence like above for any given condition to start handling Obsidian callout syntax. This works best as a Preprocessor, but should still function fine as part of a Processor if you&rsquo;re also handling the Markdown conversion in a script.</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112691404493730355" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F27%2Fobsidian-callouts-in-marked%2F&amp;text=Obsidian+Callouts+in+Marked&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F27%2Fobsidian-callouts-in-marked%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-27T19:17:00-05:00</pubDate>
+<pubDate>2024-06-27T19:17:00-05:00</pubDate>
+</item>
+<item>
+<title>Markdown Lipsum v2</title>
+<link>https://brettterpstra.com/2024/06/17/markdown-lipsum-v2/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/17/markdown-lipsum-v2/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p>I know it&rsquo;s been <a href="https://brettterpstra.com//2024/06/14/a-markdown-lorem-ipsum-api/">less than a week</a> since v1, but I made some major changes to <a href="https://brettterpstra.com//md-lipsum/">md-lipsum</a> that warrant a version 2.</p>
+
+<p>Basically, I incorporated all of the API options from <a href="https://loripsum.net/">Loripsum.net</a>, meaning you can now specify how many paragraphs and what elements are included. You can still get a full Markdown document with all elements using <a href="https://brettterpstra.com/md-lipsum/api/2/all">https://brettterpstra.com/md-lipsum/api/2/all</a>. You can include <code class="language-plaintext highlighter-rouge">/short</code>, <code class="language-plaintext highlighter-rouge">/medium</code>, <code class="language-plaintext highlighter-rouge">/long</code>, or <code class="language-plaintext highlighter-rouge">/verylong</code> in the path to determine paragraph length (can be shortened to <code class="language-plaintext highlighter-rouge">s</code>, <code class="language-plaintext highlighter-rouge">m</code>, <code class="language-plaintext highlighter-rouge">l</code>, <code class="language-plaintext highlighter-rouge">vl</code>), and/or a number to determine the number of paragraphs. More paragraphs means more header levels, too. Example:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>curl 'https://brettterpstra.com/md-lipsum/api/2/all/10/m'</code></pre></div></div>
+
+<blockquote class="tip">
+  <p>If no parameters are given, e.g. the path is just <code class="language-plaintext highlighter-rouge">/api/2</code>, then all elements will be output with 5 paragraphs of medium length.</p>
+</blockquote>
+
+<p>You can also control exactly what elements are included using additional path parameters. These are detailed on the <a href="https://brettterpstra.com//md-lipsum/">project page</a>.</p>
+
+<p>Have fun!</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112633105189348958" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F17%2Fmarkdown-lipsum-v2%2F&amp;text=Markdown+Lipsum+v2&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F17%2Fmarkdown-lipsum-v2%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-17T12:04:00-05:00</pubDate>
+<pubDate>2024-06-17T12:04:00-05:00</pubDate>
+</item>
+<item>
+<title>Text Blaze shareable folders</title>
+<link>https://brettterpstra.com/2024/06/15/text-blaze-shareable-folders/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/15/text-blaze-shareable-folders/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="lipsum-text-blaze-rb.jpg" class="aligncenter" height="226" src="https://cdn3.brettterpstra.com/uploads/2024/06/lipsum-text-blaze-rb.jpg" title="lipsum-text-blaze-rb.jpg" width="800" />
+              </noscript>
+            
+
+<p>When I first tried it out, <a href="https://blaze.today/" title="Text Blaze:Snippets and Templates for Chrome">Text Blaze</a> didn&rsquo;t make it easy to publicly share folders of snippets. They&rsquo;ve solved that, apparently, so now you can make folders publicly available from the Mac app. So I present&hellip;</p>
+
+<blockquote class="warn">
+  <p><ins>Apparently folder sharing is still an &ldquo;MVP&rdquo; feature, so I can
+share with <em>you</em>, but&hellip;</ins></p>
+</blockquote>
+
+
+              <noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="lipsum-folder.jpg" class="alignright" height="293" src="https://cdn3.brettterpstra.com/uploads/2024/06/lipsum-folder.jpg" title="lipsum-folder.jpg" width="400" />
+              </noscript>
+            
+<p><a href="https://dashboard.blaze.today/gallery/0dR0aLGYCybtkNeyMwbi">Lipsum</a>, a collection of random text generators for Text Blaze. These almost all make use of the <code class="language-plaintext highlighter-rouge">{urlload}</code> command, which currently doesn&rsquo;t show up in the command palette and I&rsquo;m unclear as to whether they&rsquo;re available to lower-level accounts (I have a Business subscription). If you try them out and run into issues, let me know.</p>
+
+<p>This set includes a couple of snippets for inserting placeholder images into HTML/Markdown documents, which I use pretty frequently when designing. You&rsquo;ll also find snippets for Bacon Ipsum (I&rsquo;m pescatarian, but&hellip;) and Hipster Ipsum, for those who prefer a little change from the typical Lorem Ipsum.</p>
+
+<p>If you&rsquo;re trying out Text Blaze, check out the <a href="https://dashboard.blaze.today/gallery/0dR0aLGYCybtkNeyMwbi">Lipsum</a> folder. If nothing else, it offers some good examples for using <code class="language-plaintext highlighter-rouge">{urlload}</code> in your own snippets.</p>
+
+<blockquote class="tip">
+  <p>Standard (for now) PSA: You have to scroll all the way to the bottom of the Text Blaze page to find the Mac app. I don&rsquo;t know why they don&rsquo;t make their native apps more obvious&hellip;</p>
+</blockquote>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112622416061005685" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F15%2Ftext-blaze-shareable-folders%2F&amp;text=Text+Blaze+shareable+folders&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F15%2Ftext-blaze-shareable-folders%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-15T14:35:00-05:00</pubDate>
+<pubDate>2024-06-15T14:35:00-05:00</pubDate>
+</item>
+<item>
+<title>A Markdown Lorem Ipsum API</title>
+<link>https://brettterpstra.com/2024/06/14/a-markdown-lorem-ipsum-api/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/14/a-markdown-lorem-ipsum-api/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p>I built a new little API for you. It generates Markdown Lorem Ipsum. First, a little background.</p>
+
+<h3 id="why">Why?</h3>
+
+<p>As I&rsquo;ve mentioned elsewhere, I&rsquo;ve been playing with <a href="https://blaze.today/">Text Blaze</a>, a cool new app that might eventually replace TextExpander for me. One of the major things missing from Text Blaze, though, is script snippets, which I make use of a lot in TextExpander. What it does offer, though, is a command for fetching a REST API and processing the result. A lot of my script snippets are doing just that, so those are actually more convenient to build in Text Blaze. For the ones that need extra handling, I&rsquo;ve just been creating web endpoints that run my scripts for me.</p>
+
+<blockquote class="tip">
+  <p>When you go to the <a href="https://blaze.today/">Text Blaze home page</a> it looks like it&rsquo;s just a Chrome extension. You have to go all the way to the bottom of the page to find the Mac app (beta).</p>
+</blockquote>
+
+<p>One such snippet I wanted back was my random Markdown generator, which I use frequently to test out styles for things like <a href="https://marked2app.com">Marked</a>, <a href="https://nvultra.com">nvUltra</a>, or <a href="https://multimarkdown.com/composer4/">MultiMarkdown Composer</a>. There&rsquo;s an existing API called <a href="https://jaspervdj.be/lorem-markdownum/">Lorem Markdownum</a>, but it doesn&rsquo;t generate enough of the syntax consistently to be good for testing themes. So I built my own.</p>
+
+<h3 id="md-lipsum">MD-Lipsum</h3>
+
+<p><a href="https://brettterpstra.com/md-lipsum/">&ldquo;MD-Lipsum&rdquo;</a> uses <a href="https://loripsum.net/">Loripsum.net</a> to generate a full set of HTML markup with random text, and then converts that HTML to basic Markdown. No tables, unfortunately, but it outputs a complete set of standard Markdown elements, including bold/italics, ordered and unordered lists, headers, block quotes, code blocks (fenced), and definition lists (MultiMarkdown syntax).</p>
+
+<h4 id="usage">Usage</h4>
+
+<p>To use the API, just point to <code class="language-plaintext highlighter-rouge">https://brettterpstra.com/md-lipsum/api/1</code>. You can add <code class="language-plaintext highlighter-rouge">/long</code> or <code class="language-plaintext highlighter-rouge">/short</code> but it has minimal effect (a shortcoming of the loripsum.net API, I think). It just returns plain text, much like the <a href="https://brettterpstra.com/titlecase/test">TitleCase API</a> I made a while back.</p>
+
+<p>You can use it from the command line like:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>curl 'https://brettterpstra.com/md-lipsum/api/1'</code></pre></div></div>
+
+<p>To use it in Text Blaze, you&rsquo;d want a snippet like:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight fixed"><code>{urlload: https://brettterpstra.com/md-lipsum/api/1; done=(res) -&gt; ["response": res]; headers=; body=; method=GET}{=response}</code></pre></div></div>
+
+<p>There&rsquo;s a little page <a href="https://brettterpstra.com/md-lipsum/">here</a> but it just tells you what&rsquo;s in this post!</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112616289648102885" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F14%2Fa-markdown-lorem-ipsum-api%2F&amp;text=A+Markdown+Lorem+Ipsum+API&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F14%2Fa-markdown-lorem-ipsum-api%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-14T12:54:00-05:00</pubDate>
+<pubDate>2024-06-14T12:54:00-05:00</pubDate>
+</item>
+<item>
+<title>Web Excursions for June 12, 2024</title>
+<link>https://brettterpstra.com/2024/06/12/web-excursions-for-june-12-2024/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/12/web-excursions-for-june-12-2024/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Brett holding map" class="aligncenter" height="349" src="https://cdn3.brettterpstra.com/uploads/2017/03/web-exc-map.jpg" title="Brett holding map" width="800" />
+              </noscript>
+            
+
+<dl>
+  <dt><a href="https://github.com/jordanbaird/Ice">jordanbaird/Ice: Powerful menu bar manager for macOS</a></dt>
+  <dd>There&rsquo;s some question about the future of Bartender after a recent acquisition (and some concerns about new telemetry). This project looks like a solid up-and-coming replacement (and free).</dd>
+  <dt><a href="https://github.com/darrenburns/dunk">darrenburns/dunk: Prettier git diffs in the terminal 🎨</a></dt>
+  <dd>
+    <blockquote>
+      <p>Prettier git diffs in the terminal</p>
+    </blockquote>
+  </dd>
+  <dt><a href="https://pluralistic.net/2024/06/12/s-curve/#anything-that-cant-go-on-forever-eventually-stops">An end to the climate emergency is in our grasp</a></dt>
+  <dd>Climate anxiety keeping you awake? Here&rsquo;s some hopeful news.</dd>
+  <dt><a href="https://www.popclip.app/extensions/x/wfhk0x">Obsidian — PopClip Extensions</a></dt>
+  <dd>In the vein of cool Obsidian integrations, here’s one for PopClip that can save selected text to a specified file or to the Daily Note page. There’s a similar one for nvUltra in my <a href="https://brettterpstra.com/projects/bretts-popclip-extensions/">PopClip Extensions</a>.</dd>
+</dl>
+
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112605033764179404" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F12%2Fweb-excursions-for-june-12-2024%2F&amp;text=Web+Excursions+for+June+12%2C+2024&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F12%2Fweb-excursions-for-june-12-2024%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-12T13:12:00-05:00</pubDate>
+<pubDate>2024-06-12T13:12:00-05:00</pubDate>
+</item>
+<item>
+<title>The Developer Nation Survey 27th Edition</title>
+<link>https://brettterpstra.com/2024/06/05/the-developer-nation-survey-27th-edition/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/05/the-developer-nation-survey-27th-edition/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p><a href="https://developereconomics.net?member_id=brett&amp;lang=en&amp;locale=en">
+              <noscript class="loading-lazy">
+                <source media="(max-width: 640px)" />
+                <source type="image/avif" />
+                <source type="image/webp" />
+                <source />
+                <img alt="Developer Survey Banner" class="aligncenter" height="450" src="https://cdn3.brettterpstra.com/uploads/2024/06/developer-survey.jpg" title="Developer Survey Banner" width="800" />
+              </noscript>
+            </a></p>
+
+<p>The <a href="https://developereconomics.net?member_id=brett&amp;lang=en&amp;locale=en">27th Developer Nation Survey</a> is open until July 9th. Take the survey and get entered in a drawing for prizes, including a GoPro Hero12 Black, Laptop Screen Extender 14&rdquo;, Samsung T7 Shield SSD 1TB, Raspberry Pi 5, AeroPress Coffee Maker, Udemy &amp; Amazon gift cards, Developer Nation Swag and much more! Developer Nation community members are also eligible for an iPad Mini, Amazon gift cards and more.</p>
+
+<p>This is a global developer survey covering 13 areas, including: Web,
+Mobile, Desktop, Cloud, Industrial IoT, Consumer Electronics, Embedded
+software, AR &amp; VR, Apps/extensions for 3rd-party ecosystems, Games,
+Machine Learning &amp; AI, and Data science. It&rsquo;s open to all developers and
+no-code software creators. Share what you like and dislike about popular tools and platforms and make an impact on the ecosystem.</p>
+
+<p>As a thank you you&rsquo;ll get a &ldquo;goody bag&rdquo; with free coding resources,
+vouchers and learning material to support your career growth. Also, the
+more questions you answer the more chances you get to win the cool
+prizes listed above.</p>
+
+<p><a href="https://developereconomics.net?member_id=brett&amp;lang=en&amp;locale=en">Take the survey</a> before July 9th!</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112565113292348127" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F05%2Fthe-developer-nation-survey-27th-edition%2F&amp;text=The+Developer+Nation+Survey+27th+Edition&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F05%2Fthe-developer-nation-survey-27th-edition%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-05T11:25:00-05:00</pubDate>
+<pubDate>2024-06-05T11:25:00-05:00</pubDate>
+</item>
+<item>
+<title>Adding custom search shortcuts in Firefox</title>
+<link>https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</link>
+<guid>https://brettterpstra.com/2024/06/02/adding-custom-search-shortcuts-in-firefox/?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+brettterpstra</guid>
+<content:encoded><![CDATA[
+
+<p>This might not be news to most people, but I thought I&rsquo;d point it out for any Firefox users that don&rsquo;t know about it: you can add a custom search shortcut for any site, allowing you to use a short keyword followed by search terms and execute the search without going to the site, clicking search, and entering terms.</p>
+
+<p>To add a custom search:</p>
+
+<ol>
+  <li>Go to the site you want to search and use its search field to run any search.</li>
+  <li>On the results page, add a bookmark. You can edit the bookmark title to a generic <code class="language-plaintext highlighter-rouge">&lt;SITE NAME&gt; search</code> in this step or in step 4.</li>
+  <li>Open up the Bookmarks sidebar (<span class="keycombo combined" title="Command-B"><kbd class="mod symbol">&#8984;</kbd><kbd class="key symbol">B</kbd></span>) (or open the Bookmarks manager with <span class="keycombo combined" title="Option-Command-O"><kbd class="mod symbol">&#8997;</kbd><kbd class="mod symbol">&#8984;</kbd><kbd class="key symbol">O</kbd></span>) and locate the new bookmark. Right click it and choose <strong>Edit Bookmark</strong>.</li>
+  <li>Change the search term in the URL to <code class="language-plaintext highlighter-rouge">%s</code>. E.g., if you searched for <code class="language-plaintext highlighter-rouge">frog</code>, find <code class="language-plaintext highlighter-rouge">frog</code> in the URL and replace it.</li>
+  <li>Add a short &ldquo;keyword&rdquo; and edit the title to a generic &ldquo;X Search&rdquo; if you didn&rsquo;t already. The keyword is the short text you&rsquo;ll use to access the search. It can be as short as one character.</li>
+  <li>Save the edit.</li>
+</ol>
+
+<p>Now you can just focus the URL bar (<span class="keycombo combined" title="Command-L"><kbd class="mod symbol">&#8984;</kbd><kbd class="key symbol">L</kbd></span>), type the keyword followed by a space and whatever search terms you want to use. The search page will be loaded directly with the results!</p>
+
+<figure class="bt-video-container"><video controls="" height="" poster="https://brett.trpstra.net/brettterpstra" preload="none" width=""><source src="https://brettterpstra.com//uploads/2024/06/CustomFirefoxSearch.webm" type="video/webm" /><source src="https://brettterpstra.com//uploads/2024/06/CustomFirefoxSearch.ogg" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><source src="https://brettterpstra.com//uploads/2024/06/CustomFirefoxSearch.mp4" type="video/mp4; codecs=&quot;avc1.42e01e, mp4a.40.2&quot;" /></video></figure>
+
+<p>Hope that&rsquo;s useful to some people. The same thing can be done in most browsers, I just happen to be using mostly Firefox these days. Feel free to add tips for your browser of choice in the comments.</p>
+
+<p>Like or share this post <a href="https://nojack.easydns.ca/users/ttscoff/statuses/112549026611156156" target="_blank" title="This post on Mastodon">on Mastodon</a> or <a class="twitter" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F02%2Fadding-custom-search-shortcuts-in-firefox%2F&amp;text=Adding+custom+search+shortcuts+in+Firefox&amp;url=https%3A%2F%2Fbrettterpstra.com%2F2024%2F06%2F02%2Fadding-custom-search-shortcuts-in-firefox%2F&amp;via=ttscoff" rel="nofollow" target="_blank" title="Tweet this post">Twitter</a>.</p>
+    <hr style="margin: 40px 0;" />
+<p>BrettTerpstra.com is supported by readers like you. <a href="https://brettterpstra.com/support/">Click here if you'd like to help out.</a></p>
+<p class="copyright">All materials &copy;2024 Brett Terpstra</p>
+<p><a href="https://twitter.com/ttscoff" rel="me">Twitter</a> | <a href="https://nojack.easydns.ca/@ttscoff" rel="me">Mastodon</a> | <a href="https://github.com/ttscoff">GitHub</a> | <a href="https://brettterpstra.com/legal/privacy.html">Privacy Policy</a></p>
+]]></content:encoded>
+<pubDate>2024-06-02T15:01:00-05:00</pubDate>
+<pubDate>2024-06-02T15:01:00-05:00</pubDate>
+</item>
 
 <item>
 <title>Relaunched T-shirts for The Lab and Rock Scissors</title>
