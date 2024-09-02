@@ -28986,3 +28986,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-02 01:11:19.077234
+------------------------------------------------------
+Started: 2024-09-02 04:18:48.151924
+Existing_entries: 526
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome 主导浏览器市场，哪些网站对 Firefox 不友好？](https://meta.appinn.net/t/topic/60536)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-02 04:18:51.270732
