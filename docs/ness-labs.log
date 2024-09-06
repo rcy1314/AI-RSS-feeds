@@ -7278,3 +7278,12 @@ Existing_entries: 38
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-09-06 08:20:08.545355
+------------------------------------------------------
+Started: 2024-09-06 12:29:40.515509
+Existing_entries: 38
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [The Sleep-Creativity Cycle: Why Sleep is the Secret Ally of Creative Minds](https://nesslabs.com/sleep-creativity-cycle?utm_source=rss&utm_medium=rss&utm_campaign=sleep-creativity-cycle)
+append_entries: 1
+Finish: 2024-09-06 12:29:41.128577
