@@ -29234,3 +29234,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-07 01:08:51.028790
+------------------------------------------------------
+Started: 2024-09-07 04:18:29.485892
+Existing_entries: 534
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [assAdd 添加b站腾讯视频弹幕](https://meta.appinn.net/t/topic/60746)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-07 04:18:32.478586
