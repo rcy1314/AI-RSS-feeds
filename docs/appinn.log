@@ -29382,3 +29382,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-10 01:11:10.410490
+------------------------------------------------------
+Started: 2024-09-10 04:18:15.268677
+Existing_entries: 538
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [有什么扩展可以批量给网页生成缩略图或者预览图的么](https://meta.appinn.net/t/topic/31232)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-10 04:18:17.787317
