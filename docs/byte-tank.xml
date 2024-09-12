@@ -4,12 +4,12 @@
 <title>Byte Tank - Pedro Lopes Blog</title>
 <link>https://lopespm.com/</link>
 
+
 <item>
 <title>Obsidian Encrypted Backup - Google Drive, Dropbox, OneDrive</title>
 <link>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</link>
 <guid>https://lopespm.com/notes/2024/09/11/obsidian-backup.html</guid>
 <content:encoded><![CDATA[
-
 <p>After several years using Evernote, I’ve eventually migrated all my notes into Obsidian, which allowed me to have full control of my notes, in a format that I could use, move, or <a href="https://lopespm.com/machine_learning/2024/06/24/personal-llm.html">leverage upon</a>. As a consequence, my notes would no longer live in the cloud and my personal device, so any redundancy and backups would need to be guaranteed by me, via my personal periodic backups.</p>
 
 <p>Having more than a decade’s worth of notes relying on a single redundancy made me somewhat uneasy, so the options I could think of were either:</p>
@@ -151,10 +151,8 @@ echo &quot;Finished compressing and moving to backup folder&quot;
 
 <p>All done! After performing these steps, your backup script will run whenever you chose to, and the encrypted backup will be created and placed in the location that you chose on <a href="https://lopespm.com/notes/2024/09/11/obsidian-backup.html#step-1-custom-script-that-encrypts-and-backs-up-all-notes">Step 1.</a> above 🎉</p>
 ]]></content:encoded>
-
 <pubDate>2024-09-11T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Investment Tracker - Free Spreadsheet Template</title>
 <link>https://lopespm.com/notes/2024/09/01/investment-tracker.html</link>
