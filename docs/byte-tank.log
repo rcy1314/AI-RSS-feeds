@@ -18688,3 +18688,12 @@ Existing_entries: 53
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-09-11 20:15:26.120233
+------------------------------------------------------
+Started: 2024-09-12 01:10:51.263338
+Existing_entries: 53
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Obsidian Encrypted Backup - Google Drive, Dropbox, OneDrive](https://lopespm.com/notes/2024/09/11/obsidian-backup.html)
+append_entries: 1
+Finish: 2024-09-12 01:10:51.905171
