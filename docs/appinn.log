@@ -29747,3 +29747,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-17 12:30:33.063918
+------------------------------------------------------
+Started: 2024-09-17 16:19:45.057752
+Existing_entries: 543
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [iOS 18 的桌面有了一些更新但是意犹未尽](https://meta.appinn.net/t/topic/61091)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-17 16:19:48.012525
