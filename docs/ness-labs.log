@@ -7755,3 +7755,12 @@ Existing_entries: 39
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-09-19 12:31:13.164727
+------------------------------------------------------
+Started: 2024-09-19 16:19:51.189331
+Existing_entries: 39
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Designing a Protocol to Get out of Slump Mode](https://nesslabs.com/slump-mode?utm_source=rss&utm_medium=rss&utm_campaign=slump-mode)
+append_entries: 1
+Finish: 2024-09-19 16:19:51.965977
