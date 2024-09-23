@@ -30036,3 +30036,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-23 08:21:06.621425
+------------------------------------------------------
+Started: 2024-09-23 12:31:42.791667
+Existing_entries: 552
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【求组】网页中的文本链接转化为超链接](https://meta.appinn.net/t/topic/61304)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-23 12:31:45.313711
