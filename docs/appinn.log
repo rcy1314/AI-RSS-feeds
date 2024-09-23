@@ -30045,3 +30045,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-09-23 12:31:45.313711
+------------------------------------------------------
+Started: 2024-09-23 16:19:13.967187
+Existing_entries: 553
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [还有无类似Onetab的扩展](https://meta.appinn.net/t/topic/61312)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-23 16:19:16.916215
