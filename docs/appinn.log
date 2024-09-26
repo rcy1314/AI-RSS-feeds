@@ -30175,3 +30175,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-26 04:19:38.753052
+------------------------------------------------------
+Started: 2024-09-26 08:20:53.032620
+Existing_entries: 555
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [[送码] 我们正在研发一款聚合信息阅读工具，邀请你填写用户需求调研问卷（优先内测资格）](https://meta.appinn.net/t/topic/61411)
+Append: [小熊油耗 记录日常用车油耗](https://meta.appinn.net/t/topic/61410)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-09-26 08:20:55.540413
