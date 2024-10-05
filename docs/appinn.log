@@ -30613,3 +30613,11 @@ Append: [Ios语音聊天app来电不响铃，是苹果的限制吗](https://meta
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-10-05 01:13:09.505436
+------------------------------------------------------
+Started: 2024-10-05 04:19:35.808367
+Existing_entries: 569
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-10-05 04:19:39.136396
