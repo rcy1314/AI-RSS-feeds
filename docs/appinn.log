@@ -30873,3 +30873,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-10 08:20:39.413236
+------------------------------------------------------
+Started: 2024-10-10 12:31:30.168287
+Existing_entries: 573
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [方方格子有无mac端的替代呢](https://meta.appinn.net/t/topic/61836)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-10 12:31:33.553884
