@@ -31256,3 +31256,12 @@ Append: [请问mac有能分隔4个栏的文件管理器吗？](https://meta.appi
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-10-18 04:19:55.203468
+------------------------------------------------------
+Started: 2024-10-18 08:20:53.450261
+Existing_entries: 580
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Wechat-need-web：一个浏览器插件，让微信网页版可以正常登录](https://meta.appinn.net/t/topic/62124)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-18 08:20:56.285545
