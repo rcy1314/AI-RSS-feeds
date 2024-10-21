@@ -5,11 +5,35 @@
 <link>https://meta.appinn.net/tag/macos</link>
 
 <item>
+<title>【自荐】为了在BOSS上开挂找工作，我写了个chrome插件</title>
+<link>https://meta.appinn.net/t/topic/62210</link>
+<guid>https://meta.appinn.net/t/topic/62210</guid>
+<content:encoded><![CDATA[
+
+<p>最近准备找工作，每条猛猛刷BOSS，感觉自己陷入了一个循环，每天检索新的岗位，看JD详情，匹配需求，不感兴趣 or 沟通一下。</p>
+<p>某一天一拍大腿，这么重复的活，为啥不让AI帮我干呢，于是我喊来了  ChatGPT、Calude、Cursor、V0这几位好朋友，开干！</p>
+<p>于是就有了这个插件，“百分投简历”(100resume)，一键爬取BOSS上的信息，并且让AI帮你分析这个岗位适不适合你，咱直接从匹配度100分的岗位开始沟通，效率嘎嘎高。</p>
+<p>目前，主要的插件功能已经实现，可以在<a href="https://100resume.aitoolhub.top/" rel="noopener nofollow ugc">这里下载</a>，有兴趣的小伙伴可以去看看，免费使用，希望能帮助大家在求职路上走的更快一点。</p>
+<h3><a class="anchor" href="https://meta.appinn.net#p-228837-h-1" name="p-228837-h-1"></a><strong>简要功能演示可参考：</strong></h3>
+<p></p>
+<h3><a class="anchor" href="https://meta.appinn.net#p-228837-h-2" name="p-228837-h-2"></a><strong>目前已有功能</strong></h3>
+<ol>
+<li>岗位数据爬取</li>
+<li>一键AI打分和分析建议</li>
+<li>支持在线AI和本地运行（都免费）</li>
+</ol>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/62210">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 21 Oct 2024 14:18:40 +0000</pubDate>
+<pubDate>Mon, 21 Oct 2024 14:18:40 +0000</pubDate>
+</item>
+
+<item>
 <title>「Floweb」超轻量浮动桌面挂件</title>
 <link>https://meta.appinn.net/t/topic/62205</link>
 <guid>https://meta.appinn.net/t/topic/62205</guid>
 <content:encoded><![CDATA[
-
 <p>国庆期间开发一个桌面挂件工作，可以把网站转为桌面一个个挂件。</p>
 <p><img alt="https://oss.floweb.cn/floweb-home.jpg" height="463" src="https://oss.floweb.cn/floweb-home.jpg" width="690" /></p>
 <p>为啥写这个软件捏，原本意愿是想使用番茄记录的一个网站，并且要把这个网站置顶，但是发现在MACOS上面的最新版本，没找到什么配置能够把一个浏览器网页置顶的，有些可能兼容老的系统，但是最新的版本都不支持了。期间也调研了一些工具，但是仅支持MACOS或者仅WINDOWS的，对我而言是双系统同时使用的场景确实比较少。程序员嘛，就喜欢自己搞一个属于自己的东西。额外地，八年前有写过一个叫「如眸网站」的导航网站，索性把两者结合在一起，所以就做了这个小工具。</p>
@@ -50,14 +74,12 @@
             <p><a href="https://meta.appinn.net/t/topic/62205">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 21 Oct 2024 10:04:17 +0000</pubDate>
-<pubDate>Mon, 21 Oct 2024 10:04:17 +0000</pubDate>
 </item>
 <item>
 <title>Vmware fusion 13的win11使用问题</title>
 <link>https://meta.appinn.net/t/topic/62200</link>
 <guid>https://meta.appinn.net/t/topic/62200</guid>
 <content:encoded><![CDATA[
-
 <p>在用vm fusion13装win11后,然后再安装vm tools后鼠标操作滚动方向会替代原win方案,强制用mac的系统方案,但这样会导致win系统内某些地方滚动操作后会有冲突.<br />
 比如向下滚动操作是它应该会界面往上滚的,但跟原win方案冲突,它就同时往下滚,导致滚动会卡在一个范围内,不能正确到想去的地方.<br />
 所以能不能不要强制替换成Mac系统的操作方案.</p>
@@ -65,9 +87,7 @@
             <p><a href="https://meta.appinn.net/t/topic/62200">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 21 Oct 2024 09:06:27 +0000</pubDate>
-<pubDate>Mon, 21 Oct 2024 09:06:27 +0000</pubDate>
 </item>
-
 <item>
 <title>IPAD有可以连续点击的软件或者办法吗？</title>
 <link>https://meta.appinn.net/t/topic/62185</link>
