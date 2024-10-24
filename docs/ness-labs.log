@@ -9021,3 +9021,12 @@ Existing_entries: 45
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-10-24 04:19:39.564933
+------------------------------------------------------
+Started: 2024-10-24 08:21:05.381587
+Existing_entries: 45
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [How to Make Friends with Fear: The F.E.A.R. Framework](https://nesslabs.com/fear-framework?utm_source=rss&utm_medium=rss&utm_campaign=fear-framework)
+append_entries: 1
+Finish: 2024-10-24 08:21:05.903156
