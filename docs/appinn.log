@@ -31842,3 +31842,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-30 01:15:32.442392
+------------------------------------------------------
+Started: 2024-10-30 04:19:57.883644
+Existing_entries: 598
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [需求是能在地图上展示详细的客户信息](https://meta.appinn.net/t/topic/62522)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-30 04:20:01.384927
