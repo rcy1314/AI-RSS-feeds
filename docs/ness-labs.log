@@ -9282,3 +9282,12 @@ Existing_entries: 46
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-10-31 08:19:20.561200
+------------------------------------------------------
+Started: 2024-10-31 12:32:18.035525
+Existing_entries: 46
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Overfunctioning: The Drive to Do it All, or When Helping Others Is Hurting You](https://nesslabs.com/overfunctioning?utm_source=rss&utm_medium=rss&utm_campaign=overfunctioning)
+append_entries: 1
+Finish: 2024-10-31 12:32:18.713342
