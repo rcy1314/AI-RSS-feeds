@@ -32106,3 +32106,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [Ice 开发暂缓了，有啥同类的推荐吗？](https://meta.appinn.net/t/topic/62742)
 append_entries: 1
 Finish: 2024-11-04 08:21:19.093668
+------------------------------------------------------
+Started: 2024-11-04 12:33:07.028285
+Existing_entries: 606
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-11-04 12:33:09.837234
