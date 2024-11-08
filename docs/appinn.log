@@ -32317,3 +32317,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-08 16:19:38.335583
+------------------------------------------------------
+Started: 2024-11-08 20:16:58.264005
+Existing_entries: 609
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [请问有没有不需要反代的可自建稍后阅读工具（可保存网页文章）？](https://meta.appinn.net/t/topic/62944)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-08 20:17:01.382025
