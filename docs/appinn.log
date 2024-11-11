@@ -32431,3 +32431,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-11-11 01:14:57.668933
+------------------------------------------------------
+Started: 2024-11-11 04:19:12.977446
+Existing_entries: 611
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [有哪些有趣实用的不需要服务器在vercel github或者cf pages就能部署实用的开源项目呢？](https://meta.appinn.net/t/topic/62994)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-11 04:19:16.903101
