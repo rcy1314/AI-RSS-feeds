@@ -32937,3 +32937,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-21 08:21:42.395188
+------------------------------------------------------
+Started: 2024-11-21 12:33:58.162116
+Existing_entries: 621
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [【自荐】Topit: 无视系统限制, 强制置顶任何窗口(支持交互)](https://meta.appinn.net/t/topic/63352)
+append_entries: 1
+Finish: 2024-11-21 12:34:00.870234
