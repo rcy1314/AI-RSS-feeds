@@ -10053,3 +10053,12 @@ Existing_entries: 49
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-11-21 12:34:14.865570
+------------------------------------------------------
+Started: 2024-11-21 16:21:21.755644
+Existing_entries: 49
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Checklists: The Key to Smarter and Safer Work](https://nesslabs.com/checklists?utm_source=rss&utm_medium=rss&utm_campaign=checklists)
+append_entries: 1
+Finish: 2024-11-21 16:21:22.390044
