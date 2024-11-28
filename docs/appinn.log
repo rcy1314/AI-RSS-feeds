@@ -33262,3 +33262,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-28 01:19:51.621772
+------------------------------------------------------
+Started: 2024-11-28 04:20:56.131010
+Existing_entries: 626
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [梦回1998，用C#重现经典的 Visual Basic 6 IDE，开源跨平台](https://meta.appinn.net/t/topic/63568)
+append_entries: 1
+Finish: 2024-11-28 04:20:58.442798
