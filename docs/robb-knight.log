@@ -25313,3 +25313,10 @@ Fetching from https://rknight.me/feed.xml
 Feed error: <unknown>:40:88: not well-formed (invalid token)
 append_entries: 0
 error when rendering xml, skip docs/robb-knight
+------------------------------------------------------
+Started: 2024-12-07 16:19:54.548006
+Existing_entries: 279
+Fetching from https://rknight.me/feed.xml
+Feed error: <unknown>:40:88: not well-formed (invalid token)
+append_entries: 0
+error when rendering xml, skip docs/robb-knight

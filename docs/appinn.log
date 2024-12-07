@@ -33712,3 +33712,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-07 12:31:35.083941
+------------------------------------------------------
+Started: 2024-12-07 16:19:44.958641
+Existing_entries: 636
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [怎么导出Chrome系浏览器的自定义的搜索引擎列表？](https://meta.appinn.net/t/topic/63935)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-07 16:19:48.518967
