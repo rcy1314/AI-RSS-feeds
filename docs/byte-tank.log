@@ -21850,3 +21850,12 @@ Existing_entries: 57
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-12-08 16:19:32.655833
+------------------------------------------------------
+Started: 2024-12-08 20:17:48.137218
+Existing_entries: 57
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [48 Laws of Power: Lessons](https://lopespm.com/notes/2024/12/08/48-laws-of-power-lessons.html)
+append_entries: 1
+Finish: 2024-12-08 20:17:48.518414
