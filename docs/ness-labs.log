@@ -11073,3 +11073,12 @@ Existing_entries: 55
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-12-19 16:19:34.220117
+------------------------------------------------------
+Started: 2024-12-19 20:17:59.254555
+Existing_entries: 55
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [2024 Year in Review: Life is in the Liminal](https://nesslabs.com/annual-review-2024?utm_source=rss&utm_medium=rss&utm_campaign=annual-review-2024)
+append_entries: 1
+Finish: 2024-12-19 20:17:59.918169
