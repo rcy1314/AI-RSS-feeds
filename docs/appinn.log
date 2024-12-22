@@ -34439,3 +34439,11 @@ Append: [好奇大家在手机上用什么软件临时编辑office系列文件](
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 2
 Finish: 2024-12-22 08:18:46.632196
+------------------------------------------------------
+Started: 2024-12-22 12:28:44.766426
+Existing_entries: 651
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-12-22 12:28:47.599876
