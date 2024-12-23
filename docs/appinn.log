@@ -34471,3 +34471,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-23 01:16:16.796045
+------------------------------------------------------
+Started: 2024-12-23 04:19:27.266961
+Existing_entries: 651
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Automa 被收购了？](https://meta.appinn.net/t/topic/64412)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-23 04:19:30.142340
