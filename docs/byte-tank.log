@@ -22576,3 +22576,12 @@ Existing_entries: 59
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2024-12-28 16:18:04.452614
+------------------------------------------------------
+Started: 2024-12-28 20:16:11.752340
+Existing_entries: 59
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Diary of a CEO Book: Lessons](https://lopespm.com/notes/2024/12/28/diary-of-ceo-book-lessons.html)
+append_entries: 1
+Finish: 2024-12-28 20:16:12.331197
