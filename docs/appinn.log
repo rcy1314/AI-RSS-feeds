@@ -35071,3 +35071,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-04 01:13:26.020719
+------------------------------------------------------
+Started: 2025-01-04 04:18:37.056485
+Existing_entries: 675
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [一年一更，抓取统计2024年公众号小众软件阅读数前10文章，导出所有文章内容合成一个pdf文件](https://meta.appinn.net/t/topic/64877)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-04 04:18:39.903060
