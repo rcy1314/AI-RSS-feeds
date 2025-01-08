@@ -35295,3 +35295,13 @@ Append: [微信机器人怎么搞，想监控群消息](https://meta.appinn.net/
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-01-08 12:32:38.843981
+------------------------------------------------------
+Started: 2025-01-08 16:20:13.784832
+Existing_entries: 683
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [[开源分享｜抛砖引玉] Tabless - 一款可以让你在新标签中摸鱼划水的浏览器插件](https://meta.appinn.net/t/topic/65045)
+Append: [【工具自荐】一款基于 AI 的智能书签管理插件](https://meta.appinn.net/t/topic/65034)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2025-01-08 16:20:16.686807
