@@ -35566,3 +35566,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-14 01:11:49.171229
+------------------------------------------------------
+Started: 2025-01-14 04:18:32.717918
+Existing_entries: 690
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [在强制推行Manifest V3后，Chrome市场份额不降反升](https://meta.appinn.net/t/topic/65287)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-14 04:18:35.502498
