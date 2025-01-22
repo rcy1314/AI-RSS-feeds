@@ -35970,3 +35970,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-22 04:19:56.871856
+------------------------------------------------------
+Started: 2025-01-22 08:20:57.447034
+Existing_entries: 702
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【开发者自荐】仓鼠工具箱 - 各类在线工具集合](https://meta.appinn.net/t/topic/65635)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【AI工具】嘌查查：拍照就能查嘌呤](https://meta.appinn.net/t/topic/65639)
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [【开源自荐】桌面春联 - 把春节氛围带到你的电脑桌面！](https://meta.appinn.net/t/topic/65644)
+append_entries: 3
+Finish: 2025-01-22 08:21:00.423534
