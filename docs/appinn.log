@@ -35998,3 +35998,11 @@ Append: [Bitwarden移动端彻底放弃MAUI，各平台独立原生开发，性�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-01-22 16:20:16.405128
+------------------------------------------------------
+Started: 2025-01-22 20:17:15.606043
+Existing_entries: 706
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-01-22 20:17:18.663219
