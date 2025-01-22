@@ -4,6 +4,57 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+<item>
+<title>Bitwarden移动端彻底放弃MAUI，各平台独立原生开发，性能大进步</title>
+<link>https://meta.appinn.net/t/topic/65663</link>
+<guid>https://meta.appinn.net/t/topic/65663</guid>
+<content:encoded><![CDATA[
+
+<p>最早的Bitwarden移动端使用Xamarin框架来跨Android和iOS，后来升级到了MAUI。</p>
+<p>2024年3月，Bitwarden表示移动平台客户端核心已经过时，消耗的资源较多，他们计划使用Android和iOS的现代开发语言完全重写移动平台客户端。</p>
+<p>2024年6月，Bitwarden发布了Beta版的使用Kotlin开发的Bitwarden for Android以及使用Swift开发的Bitwarden for iOS。</p>
+<p>近日，Bitwarden for iOS无法切换到中文的bug终于被修复，Bitwarden for Android也正式发布。</p>
+<h3><a class="anchor" href="https://meta.appinn.net#p-244352-h-1" name="p-244352-h-1"></a>资讯报道</h3>
+<ul>
+<li><a href="https://www.landiannews.com/archives/102685.html" rel="noopener nofollow ugc">密码管理器Bitwarden决定放弃微软框架 完全重新开发iOS和Android客户端 – 蓝点网</a></li>
+<li><a href="https://www.ithome.com/0/753/484.htm" rel="noopener nofollow ugc">密码管理工具 Bitwarden 宣布淘汰微软 Xamarin 框架，用现代语言重写安卓/ iOS 客户端 - IT之家</a></li>
+<li><a href="https://www.ithome.com/0/776/405.htm" rel="noopener nofollow ugc">更流畅、更安全，iOS / 安卓版开源密码管理器 Bitwarden 焕新登场 - IT之家</a></li>
+</ul>
+<h3><a class="anchor" href="https://meta.appinn.net#p-244352-github-2" name="p-244352-github-2"></a>Github仓库</h3>
+<ul>
+<li><a href="https://github.com/bitwarden/mobile" rel="noopener nofollow ugc">bitwarden/mobile: Retired Bitwarden mobile app for iOS and Android (MAUI/Xamarin).</a> 这是以前的MAUI版的仓库</li>
+<li><a href="https://github.com/bitwarden/android" rel="noopener nofollow ugc">bitwarden/android: Bitwarden mobile app for Android.</a> 使用Kotlin开发</li>
+<li><a href="https://github.com/bitwarden/ios" rel="noopener nofollow ugc">bitwarden/ios: Bitwarden mobile app for iOS.</a> 使用Swift开发</li>
+</ul>
+<h3><a class="anchor" href="https://meta.appinn.net#p-244352-h-3" name="p-244352-h-3"></a>应用商店</h3>
+<ul>
+<li><a href="https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744" rel="noopener nofollow ugc">Bitwarden Password Manager on the App Store</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.x8bit.bitwarden" rel="noopener nofollow ugc">Bitwarden 密码管理器 - Google Play 上的应用</a></li>
+</ul>
+<h3><a class="anchor" href="https://meta.appinn.net#p-244352-iosbug-4" name="p-244352-iosbug-4"></a>iOS相关bug反馈</h3>
+<ul>
+<li><a href="https://github.com/bitwarden/ios/issues/950" rel="noopener nofollow ugc">After selecting the Chinese language in the iOS client, the language does not switch to Chinese. · Issue #950 · bitwarden/ios</a></li>
+<li><a href="https://github.com/bitwarden/ios/issues/747" rel="noopener nofollow ugc">Bitwarden Beta Set Chinese Language Error · Issue #747 · bitwarden/ios</a></li>
+<li><a href="https://github.com/bitwarden/ios/issues/895" rel="noopener nofollow ugc">Invalid language setting · Issue #895 · bitwarden/ios</a></li>
+<li><a href="https://github.com/bitwarden/ios/issues/1021" rel="noopener nofollow ugc">The automatic detection and setting of i18n has failed. · Issue #1021 · bitwarden/ios</a></li>
+<li><a href="https://github.com/bitwarden/ios/issues/1061" rel="noopener nofollow ugc">App切换中文语言bug · Issue #1061 · bitwarden/ios</a></li>
+</ul>
+<hr />
+<aside class="quote no-group">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" class="avatar" height="24" src="https://meta.appinn.net/user_avatar/meta.appinn.net/qingwa/48/58294_2.png" width="24" /> Qingwa:</div>
+<blockquote>
+<p>Hi 建议留一下来源链接，可以让有兴趣的同学参考</p>
+</blockquote>
+</aside>
+<p>加了</p>
+            <p><small>6 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/65663">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 22 Jan 2025 12:37:54 +0000</pubDate>
+<pubDate>Wed, 22 Jan 2025 12:37:54 +0000</pubDate>
+</item>
 
 <item>
 <title>【开发者自荐】仓鼠工具箱 - 各类在线工具集合</title>
