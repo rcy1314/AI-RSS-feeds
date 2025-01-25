@@ -36147,3 +36147,12 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [｛Filelight｝：适用于多平台的图形化开源磁盘占用查看器，通过易于理解的多层同心圆示意图来显示文件夹结构及占用情况](https://meta.appinn.net/t/topic/65783)
 append_entries: 2
 Finish: 2025-01-25 16:18:43.984038
+------------------------------------------------------
+Started: 2025-01-25 20:15:30.687592
+Existing_entries: 711
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [LibreHusky](https://meta.appinn.net/t/topic/65787)
+append_entries: 1
+Finish: 2025-01-25 20:15:33.498777
