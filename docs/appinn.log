@@ -36212,3 +36212,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-27 01:14:17.254295
+------------------------------------------------------
+Started: 2025-01-27 04:19:41.937299
+Existing_entries: 712
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Edge浏览器怎么设置关闭最后一个标签时不关闭浏览器？](https://meta.appinn.net/t/topic/31593)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-27 04:19:44.981800
