@@ -36240,3 +36240,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【无用之物】grex：一个根据给定的文本输出可用正则的命令行工具](https://meta.appinn.net/t/topic/65830)
 append_entries: 2
 Finish: 2025-01-27 12:32:01.045149
+------------------------------------------------------
+Started: 2025-01-27 16:20:10.501869
+Existing_entries: 716
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-01-27 16:20:13.380225
