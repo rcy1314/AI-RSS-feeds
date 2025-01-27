@@ -5,11 +5,124 @@
 <link>https://meta.appinn.net/tag/macos</link>
 
 <item>
+<title>｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据</title>
+<link>https://meta.appinn.net/t/topic/65840</link>
+<guid>https://meta.appinn.net/t/topic/65840</guid>
+<content:encoded><![CDATA[
+
+<p><strong>｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据</strong></p>
+<p>＞ 源码：<a href="https://github.com/nfcim/nfsee">GitHub</a><br />
+＞ 许可：<a href="https://github.com/nfcim/nfsee/blob/master/LICENSE">MIT</a></p>
+<p><code> </code></p>
+<blockquote>
+<p><em>馆长注：</em><br />
+<em>1. 由于馆长对 NFC 技术没有什么深入了解，只能确定该软件的的读取和转储功能正常，不能确定是否支持 NFC 卡模拟。</em><br />
+<em>2. 该软件提供了“<a href="https://nfsee.nfc.im/js-extension/">执行脚本</a>”功能，可以运行自定义的 JavaScript 脚本，目前没有预设脚本，不清楚能否用于 NFC 卡模拟。</em></p>
+</blockquote>
+<p>NFSee 是一个适用于 Android 和 iOS 的开源 NFC 工具，支持从多种类型的 NFC 标签或卡片中读取和转储数据。</p>
+<p>目前支持：</p>
+<ul>
+<li>全国城市一卡通（发行信息、余额和交易记录）</li>
+<li>北京市政公交一卡通（发行信息、余额和交易记录，不支持 iOS）</li>
+<li>深圳通（发行信息、余额和交易记录）</li>
+<li>岭南通（发行信息、余额和交易记录）</li>
+<li>八达通（余额）</li>
+<li>清华校园卡（发行信息、余额和交易记录）</li>
+<li>中华人民共和国居民身份证（仅 GUID，不支持 iOS）</li>
+<li>支持 PPSE 的银行卡（发行信息、余额和交易记录，不支持 iOS）</li>
+<li>T-Union （发行信息、余额和交易记录）</li>
+<li>MIFARE Ultralight（基本信息、NDEF 数据和原始数据）</li>
+<li>MIFARE DESFire（基本信息、NDEF 数据和原始数据）</li>
+<li>MIFARE Classic4（基本信息、NDEF 数据和原始数据，不支持 iOS）</li>
+</ul>
+<p><img alt="ResizedImage_2025-01-25_00-38-24_1873.png" height="500" src="https://h1.appinn.me/file/1737980054016_ResizedImage_2025-01-25_00-38-24_1873.png" width="569" /></p>
+<p>版本：2.4.0+20400<br />
+关注：GitHub 150+ stars<br />
+状态：缓慢开发<br />
+语言：支持中文<br />
+网络：完全离线<br />
+资费：免费<br />
+技术：Flutter<br />
+平台：<a class="hashtag-cooked" href="https://meta.appinn.net/tag/android"><span class="hashtag-icon-placeholder"><svg class="fa d-icon d-icon-square-full svg-icon svg-node" xmlns="http://www.w3.org/2000/svg"><use></use></svg></span><span>android</span></a>；<a class="hashtag-cooked" href="https://meta.appinn.net/tag/ios"><span class="hashtag-icon-placeholder"><svg class="fa d-icon d-icon-square-full svg-icon svg-node" xmlns="http://www.w3.org/2000/svg"><use></use></svg></span><span>ios</span></a></p>
+<p>＞ 主页：<a href="https://nfsee.nfc.im/">NFSee</a><br />
+＞ 安装：<a href="https://github.com/nfcim/nfsee/releases">GitHub Releases</a>；<a href="https://f-droid.org/packages/im.nfc.nfsee/">F-Droid</a>；<a href="https://play.google.com/store/apps/details?id=im.nfc.nfsee">Google Play</a>；<a href="https://apps.apple.com/us/app/nfsee/id1496080962">App Store</a><br />
+＞ 捐助：<a href="https://nfsee.nfc.im/donate/">～Donate</a></p>
+<p><code> </code><br />
+＞ 副本：<a href="https://infosec.exchange/@trantor_library">FU102</a>；<a href="https://t.me/trantor_library">TG101</a>；<a href="https://meta.appinn.net/trantor_library">Appinn</a><br />
+＞ 档案：<a href="https://t.me/trantor_archive/748">A_20250121_002</a></p>
+<p>＃：<a class="hashtag-cooked" href="https://meta.appinn.net/tag/1_%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE"><span class="hashtag-icon-placeholder"><svg class="fa d-icon d-icon-square-full svg-icon svg-node" xmlns="http://www.w3.org/2000/svg"><use></use></svg></span><span>1_开源项目</span></a> <span class="hashtag-raw">#2_开源工具收集</span><br />
+＃：<span class="hashtag-raw">#A_收集</span> <span class="hashtag-raw">#B_整理</span> <span class="hashtag-raw">#C_引述</span> <span class="hashtag-raw">#D_开源</span> <span class="hashtag-raw">#D_工具</span> <span class="hashtag-raw">#E_中文</span><br />
+％：2025年1月27日（UTC+8）</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/65840">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 27 Jan 2025 12:21:47 +0000</pubDate>
+<pubDate>Mon, 27 Jan 2025 12:21:47 +0000</pubDate>
+</item>
+<item>
+<title>【无用之物】grex：一个根据给定的文本输出可用正则的命令行工具</title>
+<link>https://meta.appinn.net/t/topic/65830</link>
+<guid>https://meta.appinn.net/t/topic/65830</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-245122-h-1" name="p-245122-h-1"></a>作用</h2>
+<p>grex是一个可以将给定的文件内容（按行拆分）或者输入的语句猜测并给出正则匹配的小工具（<s>感觉不如ai</s>）</p>
+<aside class="onebox githubrepo">
+  <header class="source">
+
+      <a href="https://github.com/pemistahl/grex" rel="noopener" target="_blank">github.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="github-row">
+  <img class="thumbnail" height="344" src="https://opengraph.githubassets.com/725b03e61b92d4711e4f23e7b3cecf56/pemistahl/grex" width="690" />
+
+  <h3><a href="https://github.com/pemistahl/grex" rel="noopener" target="_blank">GitHub - pemistahl/grex: A command-line tool and Rust library with Python...</a></h3>
+
+    <p><span class="github-repo-description">A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases</span></p>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both;"></div>
+</aside>
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-245122-h-2" name="p-245122-h-2"></a>测试</h2>
+<p>中文一包糟，似乎是没有优化过……</p>
+<pre><code class="lang-plaintext">（沿岸第11周周五下午）机电学院教风学风督察记录表
+（椒盐第13周周四上午）计算机学院教风学风督察记录表
+（其他第10周周日下午）临床医学学院教风学风督察记录表
+（椒盐第3周周五上午）教培学院教风学风督察记录表
+（珠江第3周周日下午）临床医学院教风学风督察记录表
+（椒盐第2周周一上午）材料科学与工程学院教风学风督察记录表
+</code></pre>
+<p><code>./grex.exe -f C:\Users\Home\Downloads\新建文本文档.txt</code></p>
+<p>结果它给出的答案是</p>
+<pre><code class="lang-regex">^（(?:(?:椒盐第(?:2周周一上午）材料科学与工程|13周周四上午）计算机|3周周五上午）教培)|沿岸第11周周五下午）机电|珠江第3周周日下午）临床医)|其他第10周周日下午）临床医学)学院教风学风督察记录表$
+</code></pre>
+<p>你要问我匹配不匹配，那自然是可以用的，问题是和我自己写的（以及靠ai写的没法比……）</p>
+<p>我的答案：</p>
+<pre><code class="lang-regex">^（(.*)?第(\d+)周周(.)(..)）(.*)?学院教风学风督察记录表$
+</code></pre>
+<p>emm，<s>确实不如ai</s>……但是在ai大行其道的当下似乎意义不是太大了……</p>
+<p>（不过我试着英文还能看◐▽◑）</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/65830">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 27 Jan 2025 08:42:50 +0000</pubDate>
+<pubDate>Mon, 27 Jan 2025 08:42:50 +0000</pubDate>
+</item>
+
+<item>
 <title>[痛点] 稀缺的托盘空间</title>
 <link>https://meta.appinn.net/t/topic/65824</link>
 <guid>https://meta.appinn.net/t/topic/65824</guid>
 <content:encoded><![CDATA[
-
 <p>Windows 右下角的系统托盘<br />
 macOS 右上角的菜单栏<br />
 Chrome、Edge 的地址栏旁边的插件行<br />
@@ -34,9 +147,7 @@ iPhone 的 Dock</p>
             <p><a href="https://meta.appinn.net/t/topic/65824">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 27 Jan 2025 06:37:53 +0000</pubDate>
-<pubDate>Mon, 27 Jan 2025 06:37:53 +0000</pubDate>
 </item>
-
 <item>
 <title>Edge浏览器怎么设置关闭最后一个标签时不关闭浏览器？</title>
 <link>https://meta.appinn.net/t/topic/31593</link>
