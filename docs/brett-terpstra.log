@@ -86983,3 +86983,29 @@ Filter: [Drafts giveaway!](https://brett.trpstra.net/link/535/16922247/drafts-gi
 Filter: [The Tower giveaway winners!](https://brett.trpstra.net/link/535/16920450/the-tower-giveaway-winners)
 append_entries: 0
 Finish: 2025-02-08 16:17:18.095500
+------------------------------------------------------
+Started: 2025-02-08 20:15:15.625547
+Existing_entries: 237
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Readwise highlights to DEVONthink](https://brett.trpstra.net/link/535/16958687/readwise-highlights-to-devonthink)
+Filter: [The EagleFiler giveaway winners!](https://brett.trpstra.net/link/535/16958359/the-eaglefiler-giveaway-winners)
+Filter: [EagleFiler giveaway!](https://brett.trpstra.net/link/535/16953856/eaglefiler-giveaway)
+Filter: [The Amadine giveaway winners!](https://brett.trpstra.net/link/535/16952661/the-amadine-giveaway-winners)
+Filter: [Amadine giveaway!](https://brett.trpstra.net/link/535/16949009/amadine-giveaway)
+Filter: [The Inbox AI giveaway winners!](https://brett.trpstra.net/link/535/16946789/the-inboxai-giveaway-winners)
+Filter: [Inbox AI giveaway!](https://brett.trpstra.net/link/535/16943668/inbox-ai-giveaway)
+Filter: [The Setapp giveaway winners!](https://brett.trpstra.net/link/535/16942154/the-setapp-giveaway-winners)
+Filter: [Setapp giveaway!](https://brett.trpstra.net/link/535/16939222/setapp-giveaway)
+Filter: [The Chronicling giveaway winners!](https://brett.trpstra.net/link/535/16938095/the-chronicling-giveaway-winners)
+Filter: [Chronicling giveaway!](https://brett.trpstra.net/link/535/16934336/chronicling-giveaway)
+Filter: [The Simple Scan giveaway winners!](https://brett.trpstra.net/link/535/16933151/the-simple-scan-giveaway-winners)
+Filter: [Simple Scan giveaway!](https://brett.trpstra.net/link/535/16930099/simple-scan-giveaway)
+Filter: [The GoodTask for iOS and Mac giveaway winners!](https://brett.trpstra.net/link/535/16928736/the-goodtask-for-ios-and-mac-giveaway-winners)
+Filter: [GoodTask for iOS and Mac giveaway!](https://brett.trpstra.net/link/535/16926637/goodtask-for-ios-and-mac-giveaway)
+Filter: [The Drafts giveaway winner!](https://brett.trpstra.net/link/535/16925462/the-drafts-giveaway-winner)
+Filter: [Drafts giveaway!](https://brett.trpstra.net/link/535/16922247/drafts-giveaway)
+Filter: [The Tower giveaway winners!](https://brett.trpstra.net/link/535/16920450/the-tower-giveaway-winners)
+append_entries: 1
+Finish: 2025-02-08 20:15:16.939281
