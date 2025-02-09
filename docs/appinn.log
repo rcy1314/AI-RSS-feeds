@@ -36863,3 +36863,11 @@ Append: [【iOS】这个高颜值背单词 App 正在限免，有需要的可以
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-02-09 08:18:20.419098
+------------------------------------------------------
+Started: 2025-02-09 12:28:06.479192
+Existing_entries: 723
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-02-09 12:28:09.445737
