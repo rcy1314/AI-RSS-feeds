@@ -36845,3 +36845,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-09 01:18:03.558811
+------------------------------------------------------
+Started: 2025-02-09 04:18:14.993439
+Existing_entries: 721
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [请教uBlock Origin Lite的过滤问题](https://meta.appinn.net/t/topic/66276)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-02-09 04:18:17.565327
