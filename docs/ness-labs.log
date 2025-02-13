@@ -13095,3 +13095,15 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-O
 Append: [Master Your Time and Productivity with David Tedaldi, CEO of Morgen](https://nesslabs.com/morgen-featured-t?utm_source=rss&utm_medium=rss&utm_campaign=morgen-featured-t)
 append_entries: 1
 Finish: 2025-02-13 01:14:58.507042
+------------------------------------------------------
+Started: 2025-02-13 04:19:31.658755
+Existing_entries: 65
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Master Your Time and Productivity with David Tedaldi, CEO of Morgen](https://nesslabs.com/morgen-featured-tool?utm_source=rss&utm_medium=rss&utm_campaign=morgen-featured-tool)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Turning Big Fears into Tiny Experiments](https://nesslabs.com/big-fears?utm_source=rss&utm_medium=rss&utm_campaign=big-fears)
+append_entries: 2
+Finish: 2025-02-13 04:19:32.491299
