@@ -24580,3 +24580,12 @@ Existing_entries: 63
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2025-02-22 01:13:20.759566
+------------------------------------------------------
+Started: 2025-02-22 04:19:19.790144
+Existing_entries: 63
+Fetching from https://lopespm.com/atom.xml
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Bluetooth Headphones Safety](https://lopespm.com/notes/2025/02/22/wireless-headphones.html)
+append_entries: 1
+Finish: 2025-02-22 04:19:20.527153
