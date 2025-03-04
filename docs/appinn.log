@@ -37991,3 +37991,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-04 12:33:37.877770
+------------------------------------------------------
+Started: 2025-03-04 20:18:12.642682
+Existing_entries: 739
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [求更好的chrome任务管理器 extension](https://meta.appinn.net/t/topic/67162)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-04 20:18:15.345002
