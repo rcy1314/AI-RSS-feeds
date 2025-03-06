@@ -90647,3 +90647,30 @@ Filter: [The Simple Scan giveaway winners!](https://brett.trpstra.net/link/535/1
 Filter: [Simple Scan giveaway!](https://brett.trpstra.net/link/535/16930099/simple-scan-giveaway)
 append_entries: 0
 Finish: 2025-03-06 16:21:01.256312
+------------------------------------------------------
+Started: 2025-03-06 20:18:26.652815
+Existing_entries: 244
+Fetching from https://brett.trpstra.net/brettterpstra
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Web Excursions for March 6th, 2025](https://brett.trpstra.net/link/535/16978350/web-excursions-for-march-6th-2025)
+Filter: [App Tamer giveaway!](https://brett.trpstra.net/link/535/16974483/app-tamer-giveaway)
+Filter: [The Mouse Pro giveaway winners!](https://brett.trpstra.net/link/535/16973616/the-mouse-pro-giveaway-winners)
+Filter: [Mouse Pro giveaway!](https://brett.trpstra.net/link/535/16969702/mouse-pro-giveaway)
+Filter: [The Things for Mac and iOS giveaway winners!](https://brett.trpstra.net/link/535/16968767/the-things-for-mac-and-ios-giveaway-winners)
+Filter: [Things for Mac and iOS giveaway!](https://brett.trpstra.net/link/535/16964268/things-for-mac-and-ios-giveaway)
+Filter: [The Curio giveaway winners!](https://brett.trpstra.net/link/535/16963219/the-curio-giveaway-winners)
+Filter: [Curio giveaway!](https://brett.trpstra.net/link/535/16960443/curio-giveaway)
+Filter: [The EagleFiler giveaway winners!](https://brett.trpstra.net/link/535/16958359/the-eaglefiler-giveaway-winners)
+Filter: [EagleFiler giveaway!](https://brett.trpstra.net/link/535/16953856/eaglefiler-giveaway)
+Filter: [The Amadine giveaway winners!](https://brett.trpstra.net/link/535/16952661/the-amadine-giveaway-winners)
+Filter: [Amadine giveaway!](https://brett.trpstra.net/link/535/16949009/amadine-giveaway)
+Filter: [The Inbox AI giveaway winners!](https://brett.trpstra.net/link/535/16946789/the-inboxai-giveaway-winners)
+Filter: [Inbox AI giveaway!](https://brett.trpstra.net/link/535/16943668/inbox-ai-giveaway)
+Filter: [The Setapp giveaway winners!](https://brett.trpstra.net/link/535/16942154/the-setapp-giveaway-winners)
+Filter: [Setapp giveaway!](https://brett.trpstra.net/link/535/16939222/setapp-giveaway)
+Filter: [The Chronicling giveaway winners!](https://brett.trpstra.net/link/535/16938095/the-chronicling-giveaway-winners)
+Filter: [Chronicling giveaway!](https://brett.trpstra.net/link/535/16934336/chronicling-giveaway)
+Filter: [The Simple Scan giveaway winners!](https://brett.trpstra.net/link/535/16933151/the-simple-scan-giveaway-winners)
+append_entries: 1
+Finish: 2025-03-06 20:18:28.093369
