@@ -38416,3 +38416,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-13 08:22:38.717971
+------------------------------------------------------
+Started: 2025-03-13 12:34:28.733484
+Existing_entries: 748
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [求多平台远程控制软件推荐](https://meta.appinn.net/t/topic/67506)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-13 12:34:31.131265
