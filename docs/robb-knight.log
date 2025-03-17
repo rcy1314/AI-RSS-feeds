@@ -29492,3 +29492,10 @@ Fetching from https://rknight.me/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2025-03-17 04:20:58.837631
+------------------------------------------------------
+Started: 2025-03-17 08:23:30.777326
+Existing_entries: 279
+Fetching from https://rknight.me/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2025-03-17 08:23:32.801161
