@@ -38922,3 +38922,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-23 12:31:09.553398
+------------------------------------------------------
+Started: 2025-03-23 16:18:59.720657
+Existing_entries: 766
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Feed error: 403
+Fetching from https://meta.appinn.net/tag/ios.rss
+Feed error: 403
+Fetching from https://meta.appinn.net/tag/macos.rss
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/appinn
