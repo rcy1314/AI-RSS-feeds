@@ -38988,3 +38988,14 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/appinn
+------------------------------------------------------
+Started: 2025-03-24 16:23:02.013425
+Existing_entries: 766
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [阿里是怎么做到的？能让天猫卖家不能用普通浏览量器，浏览淘宝搜索？](https://meta.appinn.net/t/topic/67949)
+Append: [Mac版的最新chrome浏览器不能最小化](https://meta.appinn.net/t/topic/67976)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [免费的无线鼠标软件](https://meta.appinn.net/t/topic/67954)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 3
+Finish: 2025-03-24 16:23:05.336721
