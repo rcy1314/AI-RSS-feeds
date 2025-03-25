@@ -39031,3 +39031,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-25 08:22:43.115443
+------------------------------------------------------
+Started: 2025-03-25 12:34:35.929826
+Existing_entries: 769
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [关于tampermonkey油猴的更新弹窗](https://meta.appinn.net/t/topic/68054)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【自荐】小宇宙/Spotify用户看过来！支持字幕、思维导图、大纲的播客 App 来了！](https://meta.appinn.net/t/topic/68050)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2025-03-25 12:34:38.609247
