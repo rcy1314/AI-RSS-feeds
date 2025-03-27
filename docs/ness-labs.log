@@ -14625,3 +14625,15 @@ Existing_entries: 69
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2025-03-27 08:22:39.206003
+------------------------------------------------------
+Started: 2025-03-27 12:35:33.211205
+Existing_entries: 69
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Taking Note of Nature: City-Friendly Tiny Experiments to Connect with the Natural World](https://nesslabs.com/taking-note-of-nature?utm_source=rss&utm_medium=rss&utm_campaign=taking-note-of-nature)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-OHrHc***************************************8bEb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Productive at Work, Paralyzed at Home: What to Do When You’re in a Functional Freeze](https://nesslabs.com/functional-freeze?utm_source=rss&utm_medium=rss&utm_campaign=functional-freeze)
+append_entries: 2
+Finish: 2025-03-27 12:35:34.135411
